@@ -1,0 +1,33 @@
+name: Daily Energy Scrape
+
+on:
+  schedule:
+    # Run every day at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger button
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install selenium webdriver-manager
+
+      - name: Run Scraper
+        run: python cloud_scraper.py
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add wattsaver_mobile/assets/providers.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update energy prices" && git push)

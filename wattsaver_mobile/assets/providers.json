@@ -1,0 +1,94 @@
+{
+    "last_updated": "2025-12-10",
+    "regulated_charges": {
+        "admie_monopasiko": 0.00999,
+        "deddie_monopasiko_power": 6.21,
+        "deddie_monopasiko_energy": 0.00339,
+        "etmear": 0.017,
+        "yko_tiers": [
+            {"limit": 1600, "rate": 0.0069},
+            {"limit": 2000, "rate": 0.050},
+            {"limit": 99999, "rate": 0.085}
+        ],
+        "vat": 0.06,
+        "gas_reg_charges": {
+            "fixed_network_charge_per_month": 0.85, 
+            "variable_network_charge_per_kwh": 0.003,
+            "etd_per_kwh": 0.002, 
+            "eph_per_kwh": 0.005,
+            "vat": 0.06
+        }
+    },
+    "providers": [
+        {
+            "name": "Zenith",
+            "program": "Power Home Free",
+            "type": "Blue (Fixed)",
+            "price_kwh": 0.11179,
+            "discount_percent": 0.10,
+            "monthly_fee": 4.90,
+            "color": "#1f77b4",
+            "note": "Η τρέχουσα επιλογή σας"
+        },
+        {
+            "name": "Protergia",
+            "program": "Value Secure 12M",
+            "type": "Blue (Fixed)",
+            "price_kwh": 0.099,
+            "discount_percent": 0.0,
+            "monthly_fee": 9.90,
+            "color": "#ff7f0e",
+            "note": "Σταθερότητα για 1 χρόνο"
+        },
+        {
+            "name": "Heron",
+            "program": "Blue Generous",
+            "type": "Blue (Fixed)",
+            "price_kwh": 0.0945,
+            "discount_percent": 0.0,
+            "monthly_fee": 9.90,
+            "color": "#2ca02c",
+            "note": "Χαμηλή kWh, υψηλό πάγιο"
+        },
+        {
+            "name": "DEI",
+            "program": "Green G1 (Oikiako)",
+            "type": "Green (Special)",
+            "price_kwh": 0.13928,
+            "discount_percent": 0.0,
+            "monthly_fee": 5.00,
+            "color": "#d62728",
+            "note": "Κυμαινόμενο, χωρίς δέσμευση"
+        },
+        {
+            "name": "Elpedison",
+            "program": "Green Economy",
+            "type": "Green (Special)",
+            "price_kwh": 0.1450,
+            "discount_percent": 0.0,
+            "monthly_fee": 5.00,
+            "color": "#9467bd",
+            "note": "Βασικό πρόγραμμα"
+        },
+        {
+            "name": "NRG",
+            "program": "On Time",
+            "type": "Yellow (Variable)",
+            "price_kwh": 0.1050,
+            "discount_percent": 0.0,
+            "monthly_fee": 5.50,
+            "color": "#8c564b",
+            "note": "Κυμαινόμενο ex-ante"
+        },
+        {
+            "name": "Volton",
+            "program": "Energy Free",
+            "type": "Yellow (Variable)",
+            "price_kwh": 0.0920,
+            "discount_percent": 0.0,
+            "monthly_fee": 6.90,
+            "color": "#e377c2",
+            "note": "Πολύ χαμηλή τιμή εκκίνησης"
+        }
+    ]
+}
