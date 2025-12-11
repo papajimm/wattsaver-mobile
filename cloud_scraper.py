@@ -15,12 +15,13 @@ OUTPUT_FILE = os.path.join(BASE_DIR, "wattsaver_mobile", "assets", "providers.js
 
 class CloudScraper:
     def __init__(self):
-        self.url_elec = "https://energycost.gr/υπολογισμός-τιμής-βάσει-κατανάλωσης-2/"
-        self.url_gas = "https://energycost.gr/υπολογισμός-τιμής-βάσει-κατανάλωσης-2/" # NOTE: Using Elec URL as base, logic needs to be distinct if URLs differ. 
-        # Check original scraper for Gas URL...
-        # Original scraper had: "https://energycost.gr/υπολογισμός-τιμής-βάσει-οι_gas/"
-        # Let's fix that.
-        self.url_gas = "https://energycost.gr/υπολογισμός-τιμής-βάσει-οι_gas/"
+        # Residential
+        self.url_elec_res = "https://energycost.gr/υπολογισμός-τιμής-βάσει-κατανάλωσης-2/"
+        self.url_gas_res = "https://energycost.gr/υπολογισμός-τιμής-βάσει-οι_gas/"
+        
+        # Business
+        self.url_elec_bus = "https://energycost.gr/υπολογισμός-τιμής-βάσει-κατανάλωσης-3/"
+        self.url_gas_bus = "https://energycost.gr/υπολογισμός-τιμής-βάσει-επ_gas/"
 
         self.options = webdriver.ChromeOptions()
         self.options.add_argument("--headless")
@@ -29,8 +30,8 @@ class CloudScraper:
         self.options.add_argument("--disable-dev-shm-usage")
         self.options.add_argument("--window-size=1920,1080")
 
-    def fetch_table(self, url):
-        print(f"Fetching: {url}")
+    def fetch_table(self, url, category_name):
+        print(f"Fetching {category_name}: {url}")
         driver = None
         results = []
         try:
@@ -56,14 +57,9 @@ class CloudScraper:
                 if not cols: continue
                 raw_data = [c.text for c in cols]
                 if len(raw_data) > 2:
-                    # Clean/Parse immediately to match our JSON structure
                     try:
-                        # Adapting to the structure found in providers.json
-                        # Note: The scraper returns "raw_data". 
-                        # We need to map this to: name, program, price_kwh, monthly_fee, etc.
-                        # Based on original app logic:
-                        # name = raw[1], program = raw[4], fee = raw[7], price = raw[9]
-                        
+                        # Common parsing logic (Assuming table structure is similar across pages)
+                        # Adapting to match providers.json structure
                         name = raw_data[1]
                         program = raw_data[4]
                         
@@ -76,15 +72,18 @@ class CloudScraper:
                         results.append({
                             "name": name,
                             "program": program,
-                            "type": "Live", # Marker
+                            "type": "Live",
+                            "category": category_name, # Tag the category
                             "price_kwh": price_kwh,
                             "monthly_fee": monthly_fee,
                             "discount_percent": 0.0,
                             "color": "#d35400",
-                            "raw_data": raw_data # Keep raw just in case
+                            "raw_data": raw_data 
                         })
                     except Exception as e:
-                        print(f"Row parse error: {e}")
+                        # Only print error if it's not a header/empty row issue
+                        if "list index" not in str(e):
+                             print(f"Row parse error: {e}")
                         continue
             return results
 
@@ -96,10 +95,14 @@ class CloudScraper:
 
     def run(self):
         print("Starting Cloud Scrape...")
-        elec_data = self.fetch_table(self.url_elec)
-        gas_data = self.fetch_table(self.url_gas)
         
-        # Load existing to preserve regulated charges structure
+        # Fetch all 4 categories
+        elec_res = self.fetch_table(self.url_elec_res, "Residential Electricity")
+        gas_res = self.fetch_table(self.url_gas_res, "Residential Gas")
+        elec_bus = self.fetch_table(self.url_elec_bus, "Business Electricity")
+        gas_bus = self.fetch_table(self.url_gas_bus, "Business Gas")
+        
+        # Load existing
         existing_data = {}
         if os.path.exists(OUTPUT_FILE):
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
@@ -109,19 +112,19 @@ class CloudScraper:
         import datetime
         existing_data["last_updated"] = datetime.datetime.now().strftime("%Y-%m-%d")
         
-        # We replace the 'providers' list with the new Electric data
-        # AND we might want to store Gas data separate or in same list?
-        # The mobile app splits them by logic or creates separate lists. 
-        # Current 'providers.json' only has one "providers" list (Electricity).
-        # Let's add a "gas_providers" key to be safe and clean.
+        # Store Data
+        # We'll map them to specific keys.
+        # 'providers' -> Residential Electricity (Main backward compatibility)
+        # 'gas_providers' -> Residential Gas
+        # 'providers_business' -> Business Electricity
+        # 'gas_providers_business' -> Business Gas
         
-        if elec_data:
-            existing_data["providers"] = elec_data
-            print(f"Updated {len(elec_data)} Electricity providers.")
-        
-        if gas_data:
-            existing_data["gas_providers"] = gas_data
-            print(f"Updated {len(gas_data)} Gas providers.")
+        if elec_res: existing_data["providers"] = elec_res
+        if gas_res: existing_data["gas_providers"] = gas_res
+        if elec_bus: existing_data["providers_business"] = elec_bus
+        if gas_bus: existing_data["gas_providers_business"] = gas_bus
+
+        print(f"Summary: Elec_Res={len(elec_res)}, Gas_Res={len(gas_res)}, Elec_Bus={len(elec_bus)}, Gas_Bus={len(gas_bus)}")
 
         # Ensure dir exists
         os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
