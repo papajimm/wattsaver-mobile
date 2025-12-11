@@ -5,7 +5,6 @@ import requests
 from bill_parser import BillParser
 
 # REPLACE WITH YOUR REPO URL
-# Example: "https://raw.githubusercontent.com/username/repo/main/wattsaver_mobile/assets/providers.json"
 GITHUB_DATA_URL = "https://raw.githubusercontent.com/papajimm/wattsaver-mobile/main/wattsaver_mobile/assets/providers.json"
 
 def main(page: ft.Page):
@@ -15,8 +14,14 @@ def main(page: ft.Page):
     page.scroll = ft.ScrollMode.ADAPTIVE
 
     # --- STATE ---
-    providers = []
-    gas_providers = []
+    # Residential
+    providers_res = []
+    gas_providers_res = []
+    
+    # Business
+    providers_bus = []
+    gas_providers_bus = []
+
     reg_charges = {}
     gas_reg_charges = {}
     
@@ -24,12 +29,15 @@ def main(page: ft.Page):
     current_gas_kwh = 0
     current_days = 30
     detected_provider = "Unknown"
+    
+    # Mode: "residential" or "business"
+    current_mode = "residential"
 
     parser = BillParser()
 
     # --- LOAD DATA ---
     def load_data(from_json_string=None):
-        nonlocal providers, gas_providers, reg_charges, gas_reg_charges
+        nonlocal providers_res, gas_providers_res, providers_bus, gas_providers_bus, reg_charges, gas_reg_charges
         try:
             data = None
             if from_json_string:
@@ -45,8 +53,14 @@ def main(page: ft.Page):
                         data = json.load(f)
             
             if data:
-                providers = data.get("providers", [])
-                gas_providers = data.get("gas_providers", [])
+                # Residential
+                providers_res = data.get("providers", [])
+                gas_providers_res = data.get("gas_providers", [])
+                
+                # Business
+                providers_bus = data.get("providers_business", [])
+                gas_providers_bus = data.get("gas_providers_business", [])
+                
                 reg_charges = data.get("regulated_charges", {})
                 gas_reg_charges = reg_charges.get("gas_reg_charges", {})
                 return True
@@ -81,12 +95,15 @@ def main(page: ft.Page):
         btn_refresh.disabled = False
         
         # Refresh UI
-        update_table("electricity")
-        update_table("gas")
+        refresh_current_view()
         page.update()
 
     # --- LOGIC HELPERS ---
     def calculate_regulated_charges_elec(kwh, days):
+        # NOTE: Business regulated charges are different from Residential!
+        # For this MVP, we are using the RESIDENTIAL formula for both, 
+        # or we return 0 if business logic is unknown/complex.
+        # Let's keep using the same formula for now but be aware it's an approximation for Business.
         if not reg_charges: return 0
         kva = 8
         admie = (reg_charges.get("admie_monopasiko", 0.00999) * kwh) + 0.5
@@ -180,6 +197,14 @@ def main(page: ft.Page):
             ])
         )
 
+    def get_current_providers(energy_type):
+        if current_mode == "residential":
+            if energy_type == "electricity": return providers_res
+            else: return gas_providers_res
+        else: # Business
+            if energy_type == "electricity": return providers_bus
+            else: return gas_providers_bus
+
     def update_table(energy_type):
         target_col = results_col_elec if energy_type == "electricity" else results_col_gas
         target_col.controls.clear()
@@ -196,14 +221,9 @@ def main(page: ft.Page):
 
         results = []
         
-        # Use separated lists
-        current_providers = providers if energy_type == "electricity" else gas_providers
+        # Get correct list based on mode
+        current_providers = get_current_providers(energy_type)
         
-        # If gas providers empty, try to fallback (optional) or show nothing
-        if energy_type == "gas" and not current_providers:
-             # If using old JSON structure, gas might be missing.
-             pass
-
         for p in current_providers:
             final_price = p["price_kwh"] * (1 - p.get("discount_percent", 0))
             energy_val = kwh * final_price
@@ -232,11 +252,25 @@ def main(page: ft.Page):
             target_col.controls.append(create_card(res, res["is_detected"]))
             
         if not results:
-             target_col.controls.append(ft.Text("No providers found.", italic=True))
+             target_col.controls.append(ft.Text(f"No {current_mode} providers found.", italic=True))
         
         target_col.update()
 
-    # 3. File Picker
+    def refresh_current_view():
+        update_table("electricity")
+        update_table("gas")
+
+    # 3. Mode Switch & File Picker
+    def on_mode_change(e):
+        nonlocal current_mode
+        current_mode = "business" if e.control.value else "residential"
+        lbl_mode.value = "Business Mode" if current_mode == "business" else "Residential Mode"
+        refresh_current_view()
+        page.update()
+
+    switch_mode = ft.Switch(label="", value=False, on_change=on_mode_change)
+    lbl_mode = ft.Text("Residential Mode", weight=ft.FontWeight.BOLD)
+
     def on_dialog_result(e: ft.FilePickerResultEvent):
         if e.files:
             file_path = e.files[0].path
@@ -259,15 +293,14 @@ def main(page: ft.Page):
                     slider_gas.value = consumption
                     lbl_gas_val.value = f"{consumption} kWh"
                     tabs.selected_index = 1
-                    update_table("gas")
                 else:
                     current_elec_kwh = consumption
                     slider_elec.value = consumption
                     lbl_elec_val.value = f"{consumption} kWh"
                     tabs.selected_index = 0
-                    update_table("electricity")
                 
                 status_text.value = f"Detected: {detected_provider} ({bill_type}) | {consumption} kWh"
+                refresh_current_view()
                 page.update()
 
     file_picker = ft.FilePicker(on_result=on_dialog_result)
@@ -320,17 +353,20 @@ def main(page: ft.Page):
                 ft.Text("WattSaver Ultimate", size=20, weight=ft.FontWeight.BOLD),
             ]),
             status_text,
-            ft.Row([
-                ft.ElevatedButton("Import PDF Bill", icon=ft.Icons.UPLOAD_FILE, on_click=lambda _: file_picker.pick_files(allow_multiple=False, allowed_extensions=["pdf"])),
+            ft.Divider(),
+            ft.Row([ft.Row([switch_mode, lbl_mode]),
                 btn_refresh
-            ], alignment=ft.MainAxisAlignment.SPACE_BETWEEN)
+            ], alignment=ft.MainAxisAlignment.SPACE_BETWEEN),
+            ft.Container(height=10),
+            ft.ElevatedButton("Import PDF Bill", icon=ft.Icons.UPLOAD_FILE, on_click=lambda _: file_picker.pick_files(allow_multiple=False, allowed_extensions=["pdf"])),
+            ft.Text("Note: Live scraping is disabled on mobile.", size=10, color="#BDBDBD", text_align=ft.TextAlign.CENTER)
         ])
     )
 
     page.add(header, tabs)
     
     # Init
-    update_table("electricity")
+    refresh_current_view()
 
 if __name__ == "__main__":
     ft.app(target=main)
