@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05",
+    "last_updated": "2026-01-06",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,33 +29,6 @@
         }
     },
     "providers": [
-        {
-            "name": "EUNICE",
-            "program": "EUNICE HOME CORE",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.098,
-            "monthly_fee": 7.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "1",
-                "EUNICE HOME CORE",
-                "",
-                "",
-                "7.00",
-                "",
-                "0.098",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "39.34"
-            ]
-        },
         {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue Now 24Μ+",
@@ -921,33 +894,6 @@
             ]
         },
         {
-            "name": "EUNICE",
-            "program": "Ειδικό",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.17887,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "1",
-                "Ειδικό",
-                "",
-                "",
-                "0.00",
-                "5",
-                "0.17887",
-                "178.87",
-                "Αορίστου Διάρκειας",
-                "",
-                "",
-                "59.03"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Saver",
             "type": "Live",
@@ -1026,6 +972,33 @@
                 "",
                 "",
                 "61.97"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.17887,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "1",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.17887",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "64.03"
             ]
         },
         {
@@ -2383,33 +2356,6 @@
             ]
         },
         {
-            "name": "EUNICE",
-            "program": "EUNICE BUSINESS CORE",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.125,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "1",
-                "EUNICE BUSINESS CORE",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.125",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "51.15"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "BLUE GENEROUS MAX BUSINESS",
             "type": "Live",
@@ -2542,33 +2488,6 @@
                 "",
                 "",
                 "53.02"
-            ]
-        },
-        {
-            "name": "EUNICE",
-            "program": "EUNICE Business Fair III (21,22,23)",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.149,
-            "monthly_fee": 4.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "1",
-                "EUNICE Business Fair III (21,22,23)",
-                "",
-                "",
-                "4.00",
-                "",
-                "0.149",
-                "Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "53.17"
             ]
         },
         {
@@ -2923,33 +2842,6 @@
             ]
         },
         {
-            "name": "EUNICE",
-            "program": "Ειδικό",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.17887,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "1",
-                "Ειδικό",
-                "",
-                "",
-                "0.00",
-                "5",
-                "0.17887",
-                "178.87",
-                "Αορίστου Διάρκειας",
-                "",
-                "",
-                "59.03"
-            ]
-        },
-        {
             "name": "ΖΕΝΙΘ",
             "program": "Power Business Trust 2.0",
             "type": "Live",
@@ -3244,6 +3136,33 @@
                 "",
                 "",
                 "63.99"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.17887,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "1",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "0",
+                "0.17887",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "64.03"
             ]
         },
         {
