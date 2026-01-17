@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16",
+    "last_updated": "2026-01-17",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -567,33 +567,6 @@
                 "Επιπλέον έκπτωση 10€/ΜWh σε συνδυασμό με πρόγραμμα φυσικού αερίου.",
                 "",
                 "51.15"
-            ]
-        },
-        {
-            "name": "ΔΕΗ",
-            "program": "My Home Enter",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1421,
-            "monthly_fee": 4.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΔΕΗ",
-                "2026",
-                "1",
-                "My Home Enter",
-                "",
-                "",
-                "4.90",
-                "Πάγια Εντολή",
-                "0.1421",
-                "2% έκπτωση για πληρωμή μέσω πάγιας εντολής",
-                "12",
-                "",
-                "",
-                "51.79"
             ]
         },
         {
@@ -2486,33 +2459,6 @@
                 "Έκπτωση συνέπειας 0.1149 €/KWh",
                 "12",
                 "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
-                "",
-                "50.82"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time BUSINESS 18M",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.124,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "1",
-                "nrg fixed on time BUSINESS 18M",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.124",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "18",
-                "",
                 "",
                 "50.82"
             ]
