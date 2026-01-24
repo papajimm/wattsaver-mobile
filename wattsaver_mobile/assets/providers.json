@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23",
+    "last_updated": "2026-01-24",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,6 +29,60 @@
         }
     },
     "providers": [
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS MAX HOME 3",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.0768,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS MAX HOME 3",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.0768",
+                "Συνέπεια",
+                "18",
+                "",
+                "",
+                "35.24"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS HOME 6",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.08955,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS HOME 6",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.08955",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "39.45"
+            ]
+        },
         {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue Now 24Μ+",
@@ -108,33 +162,6 @@
                 "",
                 "",
                 "40.89"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS MAX HOME",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.0945,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS MAX HOME",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0945",
-                "Πληρωμή με συνέπεια",
-                "18",
-                "",
-                "",
-                "41.09"
             ]
         },
         {
@@ -378,33 +405,6 @@
                 "",
                 "",
                 "44.27"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS HOME 5",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.10945,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS HOME 5",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.10945",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "46.02"
             ]
         },
         {
@@ -2437,6 +2437,60 @@
     ],
     "providers_business": [
         {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS BUSINESS 6",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.0597,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS BUSINESS 6",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.0597",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "29.60"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS MAX BUSINESS 3",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.0693,
+            "monthly_fee": 12.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS MAX BUSINESS 3",
+                "",
+                "",
+                "12.90",
+                "",
+                "0.0693",
+                "Συνέπεια",
+                "18",
+                "",
+                "",
+                "35.77"
+            ]
+        },
+        {
             "name": "ENERWAVE",
             "program": "Reward Zero fee for Business Γ21",
             "type": "Live",
@@ -2461,6 +2515,33 @@
                 "Υφίσταται έκπτωση συνέπειας 0,1395 €/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
                 "",
                 "46.04"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue 24M Επαγγελματικό 1+",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1199,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "1",
+                "Power On! Blue 24M Επαγγελματικό 1+",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.1199",
+                "",
+                "24",
+                "",
+                "",
+                "49.47"
             ]
         },
         {
@@ -2515,33 +2596,6 @@
                 "",
                 "",
                 "50.82"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS MAX BUSINESS",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1188,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS MAX BUSINESS",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.1188",
-                "Πληρωμή με συνέπεια",
-                "18",
-                "",
-                "",
-                "52.10"
             ]
         },
         {
@@ -2654,11 +2708,11 @@
         },
         {
             "name": "ΕΛΙΝΟΙΛ",
-            "program": "Power On! Blue 24M Επαγγελματικό 1",
+            "program": "Power On! Blue 12M Επαγγελματικό 1+",
             "type": "Live",
             "category": "Business Electricity",
-            "price_kwh": 0.1199,
-            "monthly_fee": 12.9,
+            "price_kwh": 0.129,
+            "monthly_fee": 9.9,
             "discount_percent": 0.0,
             "color": "#d35400",
             "raw_data": [
@@ -2666,14 +2720,41 @@
                 "ΕΛΙΝΟΙΛ",
                 "2026",
                 "1",
-                "Power On! Blue 24M Επαγγελματικό 1",
+                "Power On! Blue 12M Επαγγελματικό 1+",
                 "",
                 "",
-                "12.90",
+                "9.90",
                 "",
-                "0.1199",
+                "0.129",
                 "",
-                "24",
+                "12",
+                "",
+                "",
+                "52.47"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue 12M Επαγγελματικό 3+",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.129,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "1",
+                "Power On! Blue 12M Επαγγελματικό 3+",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.129",
+                "",
+                "12",
                 "",
                 "",
                 "52.47"
@@ -2842,87 +2923,6 @@
             ]
         },
         {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Power On! Blue 12M Επαγγελματικό 1",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1299,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "1",
-                "Power On! Blue 12M Επαγγελματικό 1",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.1299",
-                "",
-                "12",
-                "",
-                "",
-                "55.77"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Power On! Blue 12M Επαγγελματικό 3",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1299,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "1",
-                "Power On! Blue 12M Επαγγελματικό 3",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.1299",
-                "",
-                "12",
-                "",
-                "",
-                "55.77"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS BUSINESS 5",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1393,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS BUSINESS 5",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.1393",
-                "Πληρωμή με συνέπεια",
-                "12",
-                "",
-                "",
-                "55.87"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Saver for Business",
             "type": "Live",
@@ -3082,6 +3082,33 @@
                 "",
                 "",
                 "58.89"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue 12M Επαγγελματικό 2+",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.149,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "1",
+                "Power On! Blue 12M Επαγγελματικό 2+",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.149",
+                "",
+                "12",
+                "",
+                "",
+                "59.07"
             ]
         },
         {
@@ -3460,33 +3487,6 @@
                 "",
                 "",
                 "64.56"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Power On! Blue 12M Επαγγελματικό 2",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1599,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "1",
-                "Power On! Blue 12M Επαγγελματικό 2",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.1599",
-                "",
-                "12",
-                "",
-                "",
-                "65.67"
             ]
         },
         {
