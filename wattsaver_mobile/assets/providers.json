@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27",
+    "last_updated": "2026-01-28",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,60 +29,6 @@
         }
     },
     "providers": [
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS MAX HOME 3",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.0768,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS MAX HOME 3",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0768",
-                "Συνέπεια",
-                "18",
-                "",
-                "",
-                "35.24"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS HOME 6",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.08955,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS HOME 6",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.08955",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "39.45"
-            ]
-        },
         {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue Now 24Μ+",
@@ -408,6 +354,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS HOME 6",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.10945,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS HOME 6",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.10945",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "46.02"
+            ]
+        },
+        {
             "name": "ENERWAVE",
             "program": "Reward Zero fee",
             "type": "Live",
@@ -513,6 +486,33 @@
                 "",
                 "",
                 "47.82"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS MAX HOME 3",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1152,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS MAX HOME 3",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.1152",
+                "Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "47.92"
             ]
         },
         {
@@ -2437,60 +2437,6 @@
     ],
     "providers_business": [
         {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS BUSINESS 6",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.0597,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS BUSINESS 6",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0597",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "29.60"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS MAX BUSINESS 3",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.0693,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "1",
-                "BLUE GENEROUS MAX BUSINESS 3",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.0693",
-                "Συνέπεια",
-                "18",
-                "",
-                "",
-                "35.77"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Zero fee for Business Γ21",
             "type": "Live",
@@ -2896,6 +2842,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS MAX BUSINESS 3",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1287,
+            "monthly_fee": 12.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS MAX BUSINESS 3",
+                "",
+                "",
+                "12.90",
+                "",
+                "0.1287",
+                "Συνέπεια",
+                "18",
+                "",
+                "",
+                "55.37"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Protergia Επαγγελματικό 1 Value Safe More",
             "type": "Live",
@@ -2920,6 +2893,33 @@
                 "Επιπλέον έκπτωση 8€/ΜWh σε συνδυασμό με πρόγραμμα φυσικού αερίου.",
                 "",
                 "55.41"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BLUE GENEROUS BUSINESS 6",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1393,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "1",
+                "BLUE GENEROUS BUSINESS 6",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.1393",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "55.87"
             ]
         },
         {
