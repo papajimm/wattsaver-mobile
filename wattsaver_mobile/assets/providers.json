@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04",
+    "last_updated": "2026-02-05",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -192,60 +192,6 @@
             ]
         },
         {
-            "name": "ENERWAVE",
-            "program": "Reward Maximum",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.088,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Reward Maximum",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.088",
-                "Έκπτωση συνέπειας 0.132 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
-                "",
-                "41.94"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "Reward Ultra",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.098,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Reward Ultra",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.098",
-                "Έκπτωση συνέπειας 0.142 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 09/07/2025.",
-                "",
-                "42.24"
-            ]
-        },
-        {
             "name": "ΖΕΝΙΘ",
             "program": "Power Home Control",
             "type": "Live",
@@ -378,60 +324,6 @@
                 "",
                 "",
                 "46.02"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "Reward Zero fee",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1395,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Reward Zero fee",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.1395",
-                "Έκπτωση συνέπειας 0.1395 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
-                "",
-                "46.04"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "Student",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1395,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Student",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.1395",
-                "Έκπτωση συνέπειας 0.1395 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Παρέχεται δωρεάν η υπηρεσία ELPEDISON HomeRepair για επείγουσα τεχνική βοήθεια.",
-                "",
-                "46.04"
             ]
         },
         {
@@ -2275,33 +2167,6 @@
     ],
     "providers_business": [
         {
-            "name": "ENERWAVE",
-            "program": "Reward Zero fee for Business Γ21",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1395,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Reward Zero fee for Business Γ21",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.1395",
-                "Έκπτωση συνέπειας 0.1395 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας 0,1395 €/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
-                "",
-                "46.04"
-            ]
-        },
-        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue 24M Επαγγελματικό 1+",
             "type": "Live",
@@ -2326,33 +2191,6 @@
                 "",
                 "",
                 "49.47"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "Reward Maximum for Business Γ21",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1149,
-            "monthly_fee": 12.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "2",
-                "Reward Maximum for Business Γ21",
-                "",
-                "",
-                "12.90",
-                "",
-                "0.1149",
-                "Έκπτωση συνέπειας 0.1149 €/KWh",
-                "12",
-                "Υφίσταται έκπτωση συνέπειας η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
-                "",
-                "50.82"
             ]
         },
         {
