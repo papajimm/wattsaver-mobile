@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10",
+    "last_updated": "2026-02-11",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -351,6 +351,33 @@
                 "",
                 "",
                 "47.82"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Control Plus",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.115,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "2",
+                "Power Home Control Plus",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.115",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "Για νέους πελάτες ZeniΘ, η τιμή με εφαρμογή έκπτωση συνέπειας διαμορφώνεται σε 0.105 €/kWh",
+                "",
+                "47.85"
             ]
         },
         {
@@ -2542,33 +2569,6 @@
                 "Επιπλέον έκπτωση 8€/ΜWh σε συνδυασμό με πρόγραμμα φυσικού αερίου.",
                 "",
                 "55.41"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "BLUE GENEROUS BUSINESS 6",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1393,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "2",
-                "BLUE GENEROUS BUSINESS 6",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.1393",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "55.87"
             ]
         },
         {
