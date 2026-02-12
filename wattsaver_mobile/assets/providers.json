@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11",
+    "last_updated": "2026-02-12",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -1111,6 +1111,33 @@
         }
     ],
     "gas_providers": [
+        {
+            "name": "ΔΕΗ",
+            "program": "ΔΕΗ myBuildingGasBenefit",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.01705,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "2",
+                "ΔΕΗ myBuildingGasBenefit",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.01705",
+                "",
+                "24",
+                "60€ έκπτωση στον λογαριασμό για αιτήσεις έως 31.03.2026",
+                "",
+                "5.63"
+            ]
+        },
         {
             "name": "EFA ENERGY",
             "program": "GO GAS EXTRA CENTRAL",
