@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17",
+    "last_updated": "2026-02-18",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2654,7 +2654,7 @@
         },
         {
             "name": "PROTERGIA",
-            "program": "Protergia Επαγγελματικό 1 Value Safe More",
+            "program": "Value Safe More Επαγγελματικό 1",
             "type": "Live",
             "category": "Business Electricity",
             "price_kwh": 0.1379,
@@ -2666,7 +2666,7 @@
                 "PROTERGIA",
                 "2026",
                 "2",
-                "Protergia Επαγγελματικό 1 Value Safe More",
+                "Value Safe More Επαγγελματικό 1",
                 "",
                 "",
                 "9.90",
@@ -2951,7 +2951,7 @@
         },
         {
             "name": "PROTERGIA",
-            "program": "Επαγγελματικό 1 Value Seasonal",
+            "program": "Value Seasonal Επαγγελματικό 1",
             "type": "Live",
             "category": "Business Electricity",
             "price_kwh": 0.18149,
@@ -2963,7 +2963,7 @@
                 "PROTERGIA",
                 "2026",
                 "2",
-                "Επαγγελματικό 1 Value Seasonal",
+                "Value Seasonal Επαγγελματικό 1",
                 "",
                 "",
                 "0.00",
