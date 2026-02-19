@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18",
+    "last_updated": "2026-02-19",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -189,33 +189,6 @@
                 "Χρέωση Ενέργειας 115€/MWh για νέους πελάτες",
                 "",
                 "41.89"
-            ]
-        },
-        {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Home Control",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.09804,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "2",
-                "Power Home Control",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.09804",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "Εμπορικά Διαθέσιμο από 08.01.2026 Εμπεριέχει Τέλος Πρόωρης Λύσης Σύμβασης: 100€ για τους μήνες 1-6 και 50€ για τους μήνες 7-11.",
-                "",
-                "42.25"
             ]
         },
         {
@@ -1355,6 +1328,33 @@
             ]
         },
         {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Gas On! Home Easy",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.03719,
+            "monthly_fee": 4.5,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "2",
+                "Gas On! Home Easy",
+                "",
+                "",
+                "4.50",
+                "",
+                "0.03719",
+                "",
+                "12",
+                "",
+                "",
+                "16.77"
+            ]
+        },
+        {
             "name": "NRG",
             "program": "nrg on time GAS",
             "type": "Live",
@@ -1487,6 +1487,33 @@
                 "",
                 "",
                 "17.20"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Gas On! Κοινόχρηστο Easy",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.03719,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "2",
+                "Gas On! Κοινόχρηστο Easy",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.03719",
+                "",
+                "12",
+                "",
+                "",
+                "17.27"
             ]
         },
         {
@@ -1757,6 +1784,33 @@
                 "",
                 "",
                 "18.34"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Gas On! Relax",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.03819,
+            "monthly_fee": 6.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "2",
+                "Gas On! Relax",
+                "",
+                "",
+                "6.00",
+                "",
+                "0.03819",
+                "",
+                "12",
+                "",
+                "",
+                "18.60"
             ]
         },
         {
@@ -4029,6 +4083,33 @@
                 "Δώρο τα 3 πρώτα πάγια.",
                 "",
                 "17.08"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Gas On! Business Easy",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.03719,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "2",
+                "Gas On! Business Easy",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.03719",
+                "",
+                "12",
+                "",
+                "",
+                "17.27"
             ]
         },
         {
