@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24",
+    "last_updated": "2026-02-25",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -3001,33 +3001,6 @@
                 "",
                 "",
                 "59.40"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Value Seasonal Επαγγελματικό 1",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.18149,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "2",
-                "Value Seasonal Επαγγελματικό 1",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.18149",
-                "",
-                "12",
-                "",
-                "",
-                "59.89"
             ]
         },
         {
