@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25",
+    "last_updated": "2026-02-26",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2704,6 +2704,33 @@
                 "Δώρο πίστωση 50€ στον πρώτο λογαριασμό.",
                 "",
                 "54.07"
+            ]
+        },
+        {
+            "name": "ΔΕΗ",
+            "program": "myBusinessEnter02.26",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.14798,
+            "monthly_fee": 5.88,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "2",
+                "myBusinessEnter02.26",
+                "",
+                "",
+                "5.88",
+                "Πάγια Εντολή",
+                "0.14798",
+                "Πάγια Εντολή",
+                "12",
+                "Δώρο 50 € πίστωση στον 1ο λογαριασμό για νέους πελάτες και για υφιστάμενους που επιλέγουν το συγκεκριμένο προϊόν.",
+                "",
+                "54.71"
             ]
         },
         {
