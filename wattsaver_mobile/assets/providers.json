@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27",
+    "last_updated": "2026-02-28",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -297,6 +297,60 @@
                 "",
                 "",
                 "47.52"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "EUNICE UNIQUE HOME",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1109,
+            "monthly_fee": 11.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "2",
+                "EUNICE UNIQUE HOME",
+                "",
+                "",
+                "11.00",
+                "",
+                "0.1109",
+                "Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "47.60"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "EUNICE HOME FIX",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1445,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "2",
+                "EUNICE HOME FIX",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.1445",
+                "Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "47.69"
             ]
         },
         {
@@ -648,33 +702,6 @@
                 "",
                 "",
                 "55.77"
-            ]
-        },
-        {
-            "name": "EUNICE",
-            "program": "EUNICE Home Fair II",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.16,
-            "monthly_fee": 4.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "2",
-                "EUNICE Home Fair II",
-                "",
-                "",
-                "4.00",
-                "",
-                "0.16",
-                "",
-                "12",
-                "",
-                "",
-                "56.80"
             ]
         },
         {
@@ -2329,6 +2356,33 @@
     ],
     "providers_business": [
         {
+            "name": "EUNICE",
+            "program": "EUNICE BUSINESS FIX 21,22",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1455,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "2",
+                "EUNICE BUSINESS FIX 21,22",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.1455",
+                "Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "48.02"
+            ]
+        },
+        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue 24M Επαγγελματικό 1+",
             "type": "Live",
@@ -2626,33 +2680,6 @@
             ]
         },
         {
-            "name": "EUNICE",
-            "program": "EUNICE FAIR IV",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.146,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "2",
-                "EUNICE FAIR IV",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.146",
-                "",
-                "12",
-                "",
-                "",
-                "53.18"
-            ]
-        },
-        {
             "name": "ΔΕΗ",
             "program": "MyBusiness4All+",
             "type": "Live",
@@ -2839,33 +2866,6 @@
                 "",
                 "",
                 "56.72"
-            ]
-        },
-        {
-            "name": "EUNICE",
-            "program": "Eunice Business Fair II (21,22,23)",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.16,
-            "monthly_fee": 4.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "2",
-                "Eunice Business Fair II (21,22,23)",
-                "",
-                "",
-                "4.00",
-                "",
-                "0.16",
-                "",
-                "12",
-                "",
-                "",
-                "56.80"
             ]
         },
         {
