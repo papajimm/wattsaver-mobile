@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05",
+    "last_updated": "2026-03-06",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -1760,33 +1760,6 @@
             ]
         },
         {
-            "name": "ΦΥΣΙΚΟ ΑΕΡΙΟ ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΙΑ ΕΝΕΡΓΕΙΑΣ",
-            "program": "Gas Home Fixed Double",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0295,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΦΥΣΙΚΟ ΑΕΡΙΟ ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΙΑ ΕΝΕΡΓΕΙΑΣ",
-                "2026",
-                "3",
-                "Gas Home Fixed Double",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0295",
-                "Τελική Τιμή με έκπτωση Double Play (-0.0105 €/kWh).0.0295 €/kWh",
-                "12",
-                "",
-                "",
-                "19.64"
-            ]
-        },
-        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Gas On! Fixed Now 24Μ Αυτόνομο",
             "type": "Live",
@@ -2680,6 +2653,33 @@
             ]
         },
         {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Business Trust 4.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.121,
+            "monthly_fee": 10.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "3",
+                "Power Business Trust 4.0",
+                "",
+                "",
+                "10.90",
+                "",
+                "0.121",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "",
+                "",
+                "50.83"
+            ]
+        },
+        {
             "name": "OTE ESTATE",
             "program": "Ειδικό",
             "type": "Live",
@@ -3247,33 +3247,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Business Trust 2.0",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.15001,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Power Business Trust 2.0",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.15001",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "59.40"
-            ]
-        },
-        {
             "name": "VOLTON",
             "program": "Ειδικό",
             "type": "Live",
@@ -3622,6 +3595,33 @@
                 "",
                 "",
                 "67.37"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Business Direct",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.208,
+            "monthly_fee": 1.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "3",
+                "Power Business Direct",
+                "",
+                "",
+                "1.00",
+                "",
+                "0.208",
+                "",
+                "12",
+                "Σταθερό 12μηνο πρόγραμμα για μη-οικιακούς πελάτης έως 25 kVA",
+                "",
+                "69.64"
             ]
         },
         {
