@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09",
+    "last_updated": "2026-03-10",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -351,6 +351,60 @@
                 "",
                 "",
                 "45.36"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Value Sure 18M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.109,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Value Sure 18M",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.109",
+                "Πληρωμή με Συνέπεια",
+                "18",
+                "Η τελική τιμή χρέωσης προμήθειας μετά από έκπτωση συνέπειας (0,109€/kWh) ισχύει για συμβάσεις που θα υπογραφούν εντός του Μαρτίου 2026. Μετά το πέρας του Μαρτίου η τελική χρέωση μετά από έκπτωση συνέεπιας θα είναι (0,119€/kWh)",
+                "",
+                "45.87"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Value Flex",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1248,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Value Flex",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.1248",
+                "Πληρωμή με Συνέπεια",
+                "12",
+                "Υπάρχει δυνατότητα επιπλέον έκπτωσης συνέπειας ύψους 0,0058€/KWh υπό επιπλέον συμβατικές προυποθέσεις.",
+                "",
+                "46.18"
             ]
         },
         {
