@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11",
+    "last_updated": "2026-03-12",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -355,33 +355,6 @@
         },
         {
             "name": "PROTERGIA",
-            "program": "Value Sure 18M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.109,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "3",
-                "Value Sure 18M",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.109",
-                "Πληρωμή με Συνέπεια",
-                "18",
-                "Η τελική τιμή χρέωσης προμήθειας μετά από έκπτωση συνέπειας (0,109€/kWh) ισχύει για συμβάσεις που θα υπογραφούν εντός του Μαρτίου 2026. Μετά το πέρας του Μαρτίου η τελική χρέωση μετά από έκπτωση συνέεπιας θα είναι (0,119€/kWh)",
-                "",
-                "45.87"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
             "program": "Value Flex",
             "type": "Live",
             "category": "Residential Electricity",
@@ -597,6 +570,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Value Sure 18M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.119,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Value Sure 18M",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.119",
+                "Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "49.17"
+            ]
+        },
+        {
             "name": "ΗΡΩΝ",
             "program": "BLUE GENEROUS HOME 7",
             "type": "Live",
@@ -702,33 +702,6 @@
                 "",
                 "",
                 "51.04"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Value Safe More",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.125,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "3",
-                "Value Safe More",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.125",
-                "",
-                "12",
-                "Επιπλέον έκπτωση 10€/ΜWh σε συνδυασμό με πρόγραμμα φυσικού αερίου.",
-                "",
-                "51.15"
             ]
         },
         {
