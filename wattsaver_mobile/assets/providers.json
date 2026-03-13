@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12",
+    "last_updated": "2026-03-13",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -381,6 +381,87 @@
             ]
         },
         {
+            "name": "ENERWAVE",
+            "program": "Reward Prime Plus",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.099,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "3",
+                "Reward Prime Plus",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.099",
+                "Έκπτωση συνέπειας 0.141 €/KWh",
+                "12",
+                "Υφίσταται έκπτωση συνέπειας 0,141€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/02/2026.",
+                "",
+                "46.57"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Prime",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.121,
+            "monthly_fee": 6.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "3",
+                "Reward Prime",
+                "",
+                "",
+                "6.90",
+                "",
+                "0.121",
+                "Έκπτωση συνέπειας 0.139 €/KWh",
+                "12",
+                "Υφίσταται έκπτωση συνέπειας 0,139€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/02/2026.",
+                "",
+                "46.83"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Click",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.139,
+            "monthly_fee": 0.99,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "3",
+                "Power Home Click",
+                "",
+                "",
+                "0.99",
+                "",
+                "0.139",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "",
+                "",
+                "46.86"
+            ]
+        },
+        {
             "name": "NRG",
             "program": "nrg fixed on time 18M",
             "type": "Live",
@@ -540,6 +621,33 @@
                 "",
                 "",
                 "47.92"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Fee Free",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.149,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "3",
+                "Reward Fee Free",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.149",
+                "Έκπτωση συνέπειας 0.130 €/KWh",
+                "12",
+                "Υφίσταται έκπτωση συνέπειας 0,130€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/02/2026.",
+                "",
+                "49.17"
             ]
         },
         {
@@ -729,6 +837,33 @@
                 "",
                 "",
                 "51.89"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Balance",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.129,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "3",
+                "Power Home Balance",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.129",
+                "",
+                "12",
+                "",
+                "",
+                "52.47"
             ]
         },
         {
@@ -2518,6 +2653,33 @@
             ]
         },
         {
+            "name": "ENERWAVE",
+            "program": "Reward Fee Free for Business Γ21",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.149,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "3",
+                "Reward Fee Free for Business Γ21",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.149",
+                "Έκπτωση συνέπειας 0.130 €/KWh",
+                "12",
+                "Υφίσταται έκπτωση συνέπειας 0,130€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/02/2026.",
+                "",
+                "49.17"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Value Simple Επαγγελματικό 1",
             "type": "Live",
@@ -2731,6 +2893,33 @@
                 "",
                 "",
                 "51.04"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Prime for Business Γ21",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1149,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "3",
+                "Reward Prime for Business Γ21",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.1149",
+                "Έκπτωση συνέπειας 0.1149 €/KWh",
+                "12",
+                "Υφίσταται έκπτωση συνέπειας 0,1149 €/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης. Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/02/2026.",
+                "",
+                "51.82"
             ]
         },
         {
