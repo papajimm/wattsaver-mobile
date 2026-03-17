@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16",
+    "last_updated": "2026-03-17",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -3436,33 +3436,6 @@
             ]
         },
         {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Power On! Blue 12M Επαγγελματικό 2+",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.149,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "3",
-                "Power On! Blue 12M Επαγγελματικό 2+",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.149",
-                "",
-                "12",
-                "",
-                "",
-                "59.07"
-            ]
-        },
-        {
             "name": "VOLTON",
             "program": "Ειδικό",
             "type": "Live",
@@ -3757,6 +3730,33 @@
                 "",
                 "",
                 "62.93"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue 12Μ Επαγγελματικό 22",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "3",
+                "Power On! Blue 12Μ Επαγγελματικό 22",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.165",
+                "",
+                "12",
+                "",
+                "",
+                "64.35"
             ]
         },
         {
