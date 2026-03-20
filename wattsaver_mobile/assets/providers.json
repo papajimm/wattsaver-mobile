@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19",
+    "last_updated": "2026-03-20",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2839,33 +2839,6 @@
                 "",
                 "",
                 "50.82"
-            ]
-        },
-        {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Business Trust 4.0",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.121,
-            "monthly_fee": 10.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Power Business Trust 4.0",
-                "",
-                "",
-                "10.90",
-                "",
-                "0.121",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "50.83"
             ]
         },
         {
