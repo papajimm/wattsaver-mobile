@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27",
+    "last_updated": "2026-03-28",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -216,33 +216,6 @@
                 "Υπάρχει δυνατότητα επιπλέον έκπτωσης συνέπειας ύψους 0,0058€/KWh υπό επιπλέον συμβατικές προυποθέσεις.",
                 "",
                 "46.18"
-            ]
-        },
-        {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Home Click",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.139,
-            "monthly_fee": 0.99,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Power Home Click",
-                "",
-                "",
-                "0.99",
-                "",
-                "0.139",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "46.86"
             ]
         },
         {
@@ -516,33 +489,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Home Balance",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.129,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Power Home Balance",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.129",
-                "",
-                "12",
-                "",
-                "",
-                "52.47"
-            ]
-        },
-        {
             "name": "ΔΕΗ",
             "program": "myHomePlan",
             "type": "Live",
@@ -813,6 +759,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Value Sure 18M 2.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.145,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Value Sure 18M 2.0",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.145",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
+                "18",
+                "",
+                "",
+                "59.75"
+            ]
+        },
+        {
             "name": "VOLTON",
             "program": "Ειδικό",
             "type": "Live",
@@ -864,6 +837,33 @@
                 "Τιμολόγιο που χρεώνει τιμή κλίμακας 15€ επιπλέον για κάθε 100 κWh κατανάλωσης μέχρι τις 500 kWh. (Ενδεικτική Tιμή (€/kWh) για κατανάλωση ίση με 330 kWh / μήνα (βάσει των μέσων καταναλώσεων οικιακών πελατών.",
                 "",
                 "60.00"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Value Sure 12M 2.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.154,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Value Sure 12M 2.0",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.154",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
+                "12",
+                "",
+                "",
+                "60.72"
             ]
         },
         {
@@ -1598,33 +1598,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Gas Home Secure 2.0",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.031,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Gas Home Secure 2.0",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.031",
-                "Έκπτωση Dual Energy",
-                "12",
-                "Δώρο 3 πάγια για νέες συμβάσεις από 5/5/2025-31/05/2025",
-                "",
-                "20.13"
-            ]
-        },
-        {
             "name": "ΔΕΗ",
             "program": "ΔΕΗ myHomeGasControl",
             "type": "Live",
@@ -1760,33 +1733,6 @@
             ]
         },
         {
-            "name": "ENERWAVE",
-            "program": "GasHome Bright 12M Next",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0369,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "3",
-                "GasHome Bright 12M Next",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0369",
-                "Έκπτωση Double Energy 10%",
-                "12",
-                "",
-                "",
-                "22.08"
-            ]
-        },
-        {
             "name": "NRG",
             "program": "nrg fixed on time GAS",
             "type": "Live",
@@ -1811,33 +1757,6 @@
                 "Εφόσον επί της οικιακής παροχής ηλεκτρικής ενέργειας έχει επιλεγεί ή επιλέγεται οποιοδήποτε πρόγραμμα ηλεκτρικής ενέργειας, πλην του «nrg fixed 4U», προσφέρει: ii) επί του προγράμματος «nrg fixed on time GAS» προσφέρει 5% έκπτωση στη σταθερή χρέωση ενέργειας",
                 "",
                 "22.37"
-            ]
-        },
-        {
-            "name": "ΖΕΝΙΘ",
-            "program": "Gas Home Secure",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.041,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "3",
-                "Gas Home Secure",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.041",
-                "έκπτωση 10 €/MWh για πελάτες παράλληλης σύμβασης ηλεκτρικής ενέργειας και φυσικού αερίου",
-                "12",
-                "Δώρο τα πάγια των πρώτων 3 μηνών για συμβάσεις από 14.03 - 31.03",
-                "",
-                "23.43"
             ]
         },
         {
@@ -3112,6 +3031,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό 2 & 3 Value Sure 12Μ 2.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1999,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Επαγγελματικό 2 & 3 Value Sure 12Μ 2.0",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.1999",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
+                "12",
+                "",
+                "",
+                "65.97"
+            ]
+        },
+        {
             "name": "NRG",
             "program": "Ειδικό (≤ 25 kVA)",
             "type": "Live",
@@ -3190,6 +3136,33 @@
                 "Σταθερό 12μηνο πρόγραμμα για μη-οικιακούς πελάτης έως 25 kVA",
                 "",
                 "69.64"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό 1 Value Sure 12Μ 2.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1699,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "3",
+                "Επαγγελματικό 1 Value Sure 12Μ 2.0",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.1699",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
+                "12",
+                "",
+                "",
+                "69.97"
             ]
         },
         {
