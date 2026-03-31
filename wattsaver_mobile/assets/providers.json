@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30",
+    "last_updated": "2026-03-31",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,6 +29,33 @@
         }
     },
     "providers": [
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow free HOME 2",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.084,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "3",
+                "Yellow free HOME 2",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.084",
+                "",
+                "12",
+                "",
+                "",
+                "27.72"
+            ]
+        },
         {
             "name": "ΗΡΩΝ",
             "program": "Yellow One Home 2",
@@ -864,6 +891,33 @@
                 "",
                 "",
                 "60.72"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue Home 12M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1599,
+            "monthly_fee": 8.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "3",
+                "Power On! Blue Home 12M",
+                "",
+                "",
+                "8.90",
+                "",
+                "0.1599",
+                "",
+                "12",
+                "",
+                "",
+                "61.67"
             ]
         },
         {
@@ -1842,6 +1896,33 @@
         }
     ],
     "providers_business": [
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow Free BUSINESS 2",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.084,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "3",
+                "Yellow Free BUSINESS 2",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.084",
+                "",
+                "12",
+                "",
+                "",
+                "27.72"
+            ]
+        },
         {
             "name": "ΗΡΩΝ",
             "program": "Yellow One Business S 2",
@@ -3190,6 +3271,33 @@
                 "",
                 "",
                 "70.67"
+            ]
+        },
+        {
+            "name": "ΕΛΙΝΟΙΛ",
+            "program": "Power On! Blue Business 12M <35kVA",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.199,
+            "monthly_fee": 10.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΕΛΙΝΟΙΛ",
+                "2026",
+                "3",
+                "Power On! Blue Business 12M <35kVA",
+                "",
+                "",
+                "10.90",
+                "",
+                "0.199",
+                "",
+                "12",
+                "",
+                "",
+                "76.57"
             ]
         },
         {
