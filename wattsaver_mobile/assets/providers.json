@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-02",
+    "last_updated": "2026-04-03",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,33 +29,6 @@
         }
     },
     "providers": [
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time 18M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.114,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "4",
-                "nrg fixed on time 18M",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.114",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "18",
-                "",
-                "",
-                "47.52"
-            ]
-        },
         {
             "name": "EUNICE",
             "program": "EUNICE UNIQUE HOME",
@@ -138,33 +111,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time advanced 2.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.119,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "4",
-                "nrg fixed on time advanced 2.0",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.119",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "12",
-                "",
-                "",
-                "49.17"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Saver",
             "type": "Live",
@@ -220,7 +166,7 @@
         },
         {
             "name": "ΔΕΗ",
-            "program": "myHomeEnter03.26",
+            "program": "myHomeEnter 03.26",
             "type": "Live",
             "category": "Residential Electricity",
             "price_kwh": 0.1421,
@@ -232,7 +178,7 @@
                 "ΔΕΗ",
                 "2026",
                 "4",
-                "myHomeEnter03.26",
+                "myHomeEnter 03.26",
                 "",
                 "",
                 "5.00",
@@ -707,60 +653,6 @@
     ],
     "gas_providers": [
         {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Zero Fixed Αυτόνομο",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0449,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Zero Fixed Αυτόνομο",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.0449",
-                "",
-                "12",
-                "",
-                "",
-                "14.82"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Zero Fixed Κοινόχρηστο",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0449,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Zero Fixed Κοινόχρηστο",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.0449",
-                "",
-                "12",
-                "",
-                "",
-                "14.82"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "GAS MAX SHARE",
             "type": "Live",
@@ -812,87 +704,6 @@
                 "Αφορά Οικιακές Κοινόχρηστες Συνδέσεις. Εγγύηση 0€ με πάγια εντολή.",
                 "",
                 "19.67"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Fixed Now 24Μ Αυτόνομο",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0359,
-            "monthly_fee": 7.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Fixed Now 24Μ Αυτόνομο",
-                "",
-                "",
-                "7.90",
-                "",
-                "0.0359",
-                "",
-                "24",
-                "",
-                "",
-                "19.75"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Fixed Now 18Μ Αυτόνομο",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0359,
-            "monthly_fee": 7.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Fixed Now 18Μ Αυτόνομο",
-                "",
-                "",
-                "7.90",
-                "",
-                "0.0359",
-                "",
-                "18",
-                "",
-                "",
-                "19.75"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Fixed Now 12Μ Αυτόνομο",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0359,
-            "monthly_fee": 7.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Fixed Now 12Μ Αυτόνομο",
-                "",
-                "",
-                "7.90",
-                "",
-                "0.0359",
-                "",
-                "12",
-                "",
-                "",
-                "19.75"
             ]
         },
         {
@@ -1028,33 +839,6 @@
                 "",
                 "",
                 "21.47"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time GAS",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0375,
-            "monthly_fee": 9.99,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "4",
-                "nrg fixed on time GAS",
-                "",
-                "",
-                "9.99",
-                "",
-                "0.0375",
-                "Πληρωμή με Συνέπεια",
-                "12",
-                "Εφόσον επί της οικιακής παροχής ηλεκτρικής ενέργειας έχει επιλεγεί ή επιλέγεται οποιοδήποτε πρόγραμμα ηλεκτρικής ενέργειας, πλην του «nrg fixed 4U», προσφέρει: ii) επί του προγράμματος «nrg fixed on time GAS» προσφέρει 5% έκπτωση στη σταθερή χρέωση ενέργειας",
-                "",
-                "22.37"
             ]
         },
         {
@@ -1789,33 +1573,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time BUSINESS 18M",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.124,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "4",
-                "nrg fixed on time BUSINESS 18M",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.124",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "18",
-                "",
-                "",
-                "50.82"
-            ]
-        },
-        {
             "name": "EUNICE",
             "program": "Ειδικό",
             "type": "Live",
@@ -1840,33 +1597,6 @@
                 "",
                 "",
                 "51.73"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time advanced 2.0 Business1",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.128,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "4",
-                "nrg fixed on time advanced 2.0 Business1",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.128",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "12",
-                "",
-                "",
-                "52.14"
             ]
         },
         {
@@ -2087,7 +1817,7 @@
         },
         {
             "name": "ΔΕΗ",
-            "program": "myBusinessEnter02.26",
+            "program": "myBusinessEnter 02.26",
             "type": "Live",
             "category": "Business Electricity",
             "price_kwh": 0.14798,
@@ -2099,7 +1829,7 @@
                 "ΔΕΗ",
                 "2026",
                 "4",
-                "myBusinessEnter02.26",
+                "myBusinessEnter 02.26",
                 "",
                 "",
                 "5.88",
@@ -2978,33 +2708,6 @@
         }
     ],
     "gas_providers_business": [
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Zero Fixed Business",
-            "type": "Live",
-            "category": "Business Gas",
-            "price_kwh": 0.0429,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "4",
-                "Gas On! Zero Fixed Business",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.0429",
-                "",
-                "12",
-                "",
-                "",
-                "14.16"
-            ]
-        },
         {
             "name": "EFA ENERGY",
             "program": "GO GAS EXTRA BUSINESS",
