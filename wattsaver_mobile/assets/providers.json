@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-04",
+    "last_updated": "2026-04-05",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,33 +29,6 @@
         }
     },
     "providers": [
-        {
-            "name": "EUNICE",
-            "program": "EUNICE UNIQUE HOME",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1109,
-            "monthly_fee": 11.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "4",
-                "EUNICE UNIQUE HOME",
-                "",
-                "",
-                "11.00",
-                "",
-                "0.1109",
-                "Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "47.60"
-            ]
-        },
         {
             "name": "PROTERGIA",
             "program": "Helios Value",
@@ -219,6 +192,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "BASIC HOME",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.14759,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "4",
+                "BASIC HOME",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.14759",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "53.70"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Value Standard",
             "type": "Live",
@@ -273,30 +273,30 @@
             ]
         },
         {
-            "name": "ΗΡΩΝ",
-            "program": "Yellow One Home 2",
+            "name": "SOLAR ENERGY",
+            "program": "Ειδικό",
             "type": "Live",
             "category": "Residential Electricity",
-            "price_kwh": 0.15737,
+            "price_kwh": 0.15616,
             "monthly_fee": 5.0,
             "discount_percent": 0.0,
             "color": "#d35400",
             "raw_data": [
                 "",
-                "ΗΡΩΝ",
+                "SOLAR ENERGY",
                 "2026",
                 "4",
-                "Yellow One Home 2",
+                "Ειδικό",
                 "",
                 "",
                 "5.00",
                 "",
-                "0.15737",
-                "Συνέπεια",
-                "12",
+                "0.15616",
+                "Έκπτωση Συνέπειας",
+                "Αορίστου Διάρκειας",
                 "",
                 "",
-                "56.93"
+                "56.53"
             ]
         },
         {
@@ -324,6 +324,33 @@
                 "",
                 "",
                 "57.27"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow One Home 2",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.15863,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "4",
+                "Yellow One Home 2",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.15863",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "57.35"
             ]
         },
         {
@@ -2059,6 +2086,33 @@
             ]
         },
         {
+            "name": "SOLAR ENERGY",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.16226,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "SOLAR ENERGY",
+                "2026",
+                "4",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.16226",
+                "Έκπτωση Συνέπειας",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "58.55"
+            ]
+        },
+        {
             "name": "ΔΕΗ",
             "program": "Ειδικό - Γ21",
             "type": "Live",
@@ -2117,7 +2171,7 @@
             "program": "Yellow One Business S 2",
             "type": "Live",
             "category": "Business Electricity",
-            "price_kwh": 0.17494,
+            "price_kwh": 0.17623,
             "monthly_fee": 5.0,
             "discount_percent": 0.0,
             "color": "#d35400",
@@ -2131,12 +2185,12 @@
                 "",
                 "5.00",
                 "",
-                "0.17494",
+                "0.17623",
                 "Συνέπεια",
                 "12",
                 "",
                 "",
-                "62.73"
+                "63.16"
             ]
         },
         {
@@ -2191,6 +2245,33 @@
                 "",
                 "",
                 "63.24"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BASIC BUSINESS S",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1778,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "4",
+                "BASIC BUSINESS S",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.1778",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "63.67"
             ]
         },
         {
@@ -2299,6 +2380,33 @@
                 "",
                 "",
                 "63.80"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "BASIC BUSINESS L",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.17941,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "4",
+                "BASIC BUSINESS L",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.17941",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "64.21"
             ]
         },
         {
