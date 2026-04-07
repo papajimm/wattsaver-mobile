@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06",
+    "last_updated": "2026-04-07",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -381,6 +381,60 @@
             ]
         },
         {
+            "name": "ENERWAVE",
+            "program": "Reward Stable 18M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.149,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "4",
+                "Reward Stable 18M",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.149",
+                "Έκπτωση συνέπειας 0.111 €/kWh",
+                "18",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 20/03/2026. Υφίσταται έκπτωση συνέπειας 0,111€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "59.07"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time 1.0 18M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.144,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "4",
+                "nrg fixed on time 1.0 18M",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.144",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "59.42"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Value Sure 18M 2.0",
             "type": "Live",
@@ -462,6 +516,33 @@
             ]
         },
         {
+            "name": "NRG",
+            "program": "nrg fixed on time advanced 3.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.153,
+            "monthly_fee": 10.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "4",
+                "nrg fixed on time advanced 3.0",
+                "",
+                "",
+                "10.90",
+                "",
+                "0.153",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "61.39"
+            ]
+        },
+        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue Home 12M",
             "type": "Live",
@@ -486,6 +567,33 @@
                 "",
                 "",
                 "61.67"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Stable 12M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.159,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "4",
+                "Reward Stable 12M",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.159",
+                "Έκπτωση συνέπειας 0.101 €/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 20/03/2026. Υφίσταται έκπτωση συνέπειας 0,101€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "62.37"
             ]
         },
         {
@@ -567,6 +675,33 @@
                 "Δώρο 50€ για νέες αιτήσεις.",
                 "",
                 "66.88"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed 12M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.158,
+            "monthly_fee": 15.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "4",
+                "nrg fixed 12M",
+                "",
+                "",
+                "15.90",
+                "",
+                "0.158",
+                "",
+                "12",
+                "",
+                "",
+                "68.04"
             ]
         },
         {
@@ -1708,33 +1843,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Business Steady",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.129,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "4",
-                "Power Business Steady",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.129",
-                "Έκπτωση Συνέπειας 55.52% επί της τελικής τιμής προμήθειας (€/kWh)",
-                "12",
-                "Εμπορικά διαθέσιμο από 15/10/2025",
-                "",
-                "52.47"
-            ]
-        },
-        {
             "name": "ΔΕΗ",
             "program": "Ειδικό - Αγροτικό",
             "type": "Live",
@@ -2488,6 +2596,60 @@
                 "Δώρο 50€ για νέες αιτήσεις για παροχές Γ21.",
                 "",
                 "67.88"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time advanced 3.0 BUSINESS",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "4",
+                "nrg fixed on time advanced 3.0 BUSINESS",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.165",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "68.35"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time 1.0 18M BUSINESS",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "4",
+                "nrg fixed on time 1.0 18M BUSINESS",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.165",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "68.35"
             ]
         },
         {
