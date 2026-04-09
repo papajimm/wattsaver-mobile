@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08",
+    "last_updated": "2026-04-09",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -58,10 +58,10 @@
         },
         {
             "name": "EUNICE",
-            "program": "EUNICE HOME FIX",
+            "program": "HOME SAFETY",
             "type": "Live",
             "category": "Residential Electricity",
-            "price_kwh": 0.1445,
+            "price_kwh": 0.1515,
             "monthly_fee": 0.0,
             "discount_percent": 0.0,
             "color": "#d35400",
@@ -70,17 +70,17 @@
                 "EUNICE",
                 "2026",
                 "4",
-                "EUNICE HOME FIX",
+                "HOME SAFETY",
                 "",
                 "",
                 "0.00",
                 "",
-                "0.1445",
-                "Πληρωμή με Συνέπεια",
+                "0.1515",
+                "Έκπτωση Συνέπειας",
                 "12",
                 "",
                 "",
-                "47.69"
+                "50.00"
             ]
         },
         {
@@ -162,6 +162,33 @@
                 "",
                 "",
                 "51.89"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Value Flow",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.14493,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "4",
+                "Value Flow",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.14493",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
+                "12",
+                "δυνατότητα επιπλέον έκπτωσης συνέπειας ύψους 0,00593€/KWh υπό επιπλέον συμβατικές προυποθέσεις.",
+                "",
+                "52.83"
             ]
         },
         {
@@ -1654,33 +1681,6 @@
     ],
     "providers_business": [
         {
-            "name": "EUNICE",
-            "program": "EUNICE BUSINESS FIX 21,22",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1455,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "4",
-                "EUNICE BUSINESS FIX 21,22",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.1455",
-                "Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "48.02"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Saver for Business",
             "type": "Live",
@@ -1732,6 +1732,33 @@
                 "",
                 "",
                 "49.47"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "BUSINESS SAFETY",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1555,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "4",
+                "BUSINESS SAFETY",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.1555",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "",
+                "",
+                "51.32"
             ]
         },
         {
