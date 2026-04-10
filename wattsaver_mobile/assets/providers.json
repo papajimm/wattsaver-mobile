@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09",
+    "last_updated": "2026-04-10",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -270,33 +270,6 @@
                 "",
                 "",
                 "54.17"
-            ]
-        },
-        {
-            "name": "ΦΥΣΙΚΟ ΑΕΡΙΟ ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΙΑ ΕΝΕΡΓΕΙΑΣ",
-            "program": "Home Fixed",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.139,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΦΥΣΙΚΟ ΑΕΡΙΟ ΕΛΛΗΝΙΚΗ ΕΤΑΙΡΙΑ ΕΝΕΡΓΕΙΑΣ",
-                "2026",
-                "4",
-                "Home Fixed",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.139",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "55.77"
             ]
         },
         {
