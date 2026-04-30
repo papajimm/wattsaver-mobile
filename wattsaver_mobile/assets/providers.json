@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29",
+    "last_updated": "2026-04-30",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -513,6 +513,60 @@
                 "Το προϊόν είναι εμπορικά διαθέσιμο από τις 07/04/2026. Υφίσταται έκπτωση συνέπειας 0,121€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
                 "",
                 "59.77"
+            ]
+        },
+        {
+            "name": "VOLTON",
+            "program": "Volton Blue Flat v3",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.15202,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "VOLTON",
+                "2026",
+                "4",
+                "Volton Blue Flat v3",
+                "",
+                "",
+                "9.90",
+                "Έκπτωση συνέπειας 45%",
+                "0.15202",
+                "Έκπτωση συνέπειας 41.53%",
+                "12",
+                "",
+                "",
+                "60.07"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Pair",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.138,
+            "monthly_fee": 14.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "4",
+                "Power Home Pair",
+                "",
+                "",
+                "14.90",
+                "",
+                "0.138",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "+5€ έκπτωση για πελάτες Dual Energy (Παράλληλη Σύνδεση Φυσικού Αερίου)",
+                "",
+                "60.44"
             ]
         },
         {
@@ -1622,6 +1676,33 @@
                 "60€ έκπτωση στον λογαριασμό για αιτήσεις έως 30.04.2026",
                 "",
                 "25.32"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Home Pair",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.049,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "4",
+                "Gas Home Pair",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.049",
+                "Έκπτωση Dual Energy (Παράλληλη σύνδεση Ηλεκτρικής Ενέργειας)",
+                "12",
+                "+ Δώρο 3 Πάγια (9,9 *3 = 29,7 σε ένα έτος)",
+                "",
+                "26.07"
             ]
         },
         {
