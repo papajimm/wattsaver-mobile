@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-08",
+    "last_updated": "2026-05-09",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -516,6 +516,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "Blue Generous Max HOME 4",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.144,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "5",
+                "Blue Generous Max HOME 4",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.144",
+                "Συνέπεια",
+                "18",
+                "",
+                "",
+                "59.42"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Value Sure 18M 2.0",
             "type": "Live",
@@ -698,6 +725,33 @@
                 "",
                 "0.153",
                 "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "61.39"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Blue Generous HOME 8",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.153,
+            "monthly_fee": 10.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "5",
+                "Blue Generous HOME 8",
+                "",
+                "",
+                "10.90",
+                "",
+                "0.153",
+                "Συνέπεια",
                 "12",
                 "",
                 "",
@@ -908,6 +962,33 @@
                 "2026",
                 "5",
                 "nrg fixed 12M",
+                "",
+                "",
+                "15.90",
+                "",
+                "0.158",
+                "",
+                "12",
+                "",
+                "",
+                "68.04"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Blue Simple HOME",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.158,
+            "monthly_fee": 15.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "5",
+                "Blue Simple HOME",
                 "",
                 "",
                 "15.90",
@@ -2356,7 +2437,7 @@
             ]
         },
         {
-            "name": "ΔΕΗ",
+            "name": "VOLTON",
             "program": "Volton Blue Flat 18M Business 21 v2",
             "type": "Live",
             "category": "Business Electricity",
@@ -2366,7 +2447,7 @@
             "color": "#d35400",
             "raw_data": [
                 "",
-                "ΔΕΗ",
+                "VOLTON",
                 "2026",
                 "5",
                 "Volton Blue Flat 18M Business 21 v2",
@@ -2375,7 +2456,7 @@
                 "9.90",
                 "Έκπτωση συνέπειας 45%",
                 "0.15902",
-                "",
+                "Έκπτωση συνέπειας 38.84%",
                 "18",
                 "",
                 "",
@@ -2518,6 +2599,33 @@
             ]
         },
         {
+            "name": "VOLTON",
+            "program": "Volton Blue Flat Business 21 v2",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.169,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "VOLTON",
+                "2026",
+                "5",
+                "Volton Blue Flat Business 21 v2",
+                "",
+                "",
+                "9.90",
+                "Έκπτωση συνέπειας 45%",
+                "0.169",
+                "Έκπτωση συνέπειας 35%",
+                "12",
+                "",
+                "",
+                "65.67"
+            ]
+        },
+        {
             "name": "PROTERGIA",
             "program": "Επαγγελματικό 2 & 3 Value Sure 12Μ 2.0",
             "type": "Live",
@@ -2626,6 +2734,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "Blue Generous Max BUSINESS 4",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "5",
+                "Blue Generous Max BUSINESS 4",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.165",
+                "Συνέπεια",
+                "18",
+                "",
+                "",
+                "68.35"
+            ]
+        },
+        {
             "name": "ENERWAVE",
             "program": "Reward Stable for Business Γ21",
             "type": "Live",
@@ -2704,6 +2839,33 @@
                 "",
                 "",
                 "68.97"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Blue Generous BUSINESS 8",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.168,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "5",
+                "Blue Generous BUSINESS 8",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.168",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "69.34"
             ]
         },
         {
