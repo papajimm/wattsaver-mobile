@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-13",
+    "last_updated": "2026-05-14",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -81,33 +81,6 @@
                 "",
                 "",
                 "45.23"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "Yellow Value HOME",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.119,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "5",
-                "Yellow Value HOME",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.119",
-                "",
-                "12",
-                "Αναστολή εφαρμογής του Μηχανισμού Διακύμανσης στη χρέωση προμήθειας για την κατανάλωση ενενήντα (90) ημερολογιακών ημερών τόσο σε υφιστάμενους όσο και σε νέους Πελάτες.",
-                "",
-                "49.17"
             ]
         },
         {
