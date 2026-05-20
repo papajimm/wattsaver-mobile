@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19",
+    "last_updated": "2026-05-20",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -564,33 +564,6 @@
                 "0.145",
                 "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
                 "18",
-                "",
-                "",
-                "59.75"
-            ]
-        },
-        {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Home Sure",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.145,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "5",
-                "Power Home Sure",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.145",
-                "Έκπτωση Συνέπειας",
-                "12",
                 "",
                 "",
                 "59.75"
