@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-03",
+    "last_updated": "2026-06-04",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -29,6 +29,33 @@
         }
     },
     "providers": [
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow One Home 2",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.13044,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "6",
+                "Yellow One Home 2",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.13044",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "48.05"
+            ]
+        },
         {
             "name": "ΗΡΩΝ",
             "program": "Yellow Value HOME",
@@ -81,33 +108,6 @@
                 "",
                 "",
                 "49.50"
-            ]
-        },
-        {
-            "name": "EUNICE",
-            "program": "HOME SAFETY",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1515,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "6",
-                "HOME SAFETY",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.1515",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "50.00"
             ]
         },
         {
@@ -331,7 +331,7 @@
             "program": "Ειδικό",
             "type": "Live",
             "category": "Residential Electricity",
-            "price_kwh": 0.15753,
+            "price_kwh": 0.158,
             "monthly_fee": 5.0,
             "discount_percent": 0.0,
             "color": "#d35400",
@@ -345,12 +345,12 @@
                 "",
                 "5.00",
                 "",
-                "0.15753",
+                "0.158",
                 "",
                 "Αορίστου Διάρκειας",
                 "",
                 "",
-                "56.98"
+                "57.14"
             ]
         },
         {
@@ -2059,6 +2059,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow One Business S 2",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.14804,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "6",
+                "Yellow One Business S 2",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.14804",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "53.85"
+            ]
+        },
+        {
             "name": "ΔΕΗ",
             "program": "My Business Enter",
             "type": "Live",
@@ -2225,7 +2252,7 @@
             "program": "Ειδικό",
             "type": "Live",
             "category": "Business Electricity",
-            "price_kwh": 0.15753,
+            "price_kwh": 0.158,
             "monthly_fee": 5.0,
             "discount_percent": 0.0,
             "color": "#d35400",
@@ -2239,12 +2266,12 @@
                 "",
                 "5.00",
                 "",
-                "0.15753",
+                "0.158",
                 "",
                 "Αορίστου Διάρκειας",
                 "",
                 "",
-                "56.98"
+                "57.14"
             ]
         },
         {
@@ -2434,6 +2461,33 @@
                 "",
                 "",
                 "62.90"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Stable for Business Γ22-Γ23",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.195,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "6",
+                "Reward Stable for Business Γ22-Γ23",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.195",
+                "Έκπτωση συνέπειας 0.065 €/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 18/05/2026. Υφίσταται έκπτωση συνέπειας 0,065 €/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "64.35"
             ]
         },
         {
