@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-07",
+    "last_updated": "2026-06-08",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -1000,6 +1000,33 @@
                 "",
                 "128.80"
             ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.0,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "6",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0",
+                "144.05",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "Η τιμή δεν είναι ακόμα γνωστή"
+            ]
         }
     ],
     "gas_providers": [
@@ -1436,33 +1463,6 @@
             ]
         },
         {
-            "name": "EFA ENERGY",
-            "program": "GO GAS EXTRA HOME",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.05304,
-            "monthly_fee": 4.3,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EFA ENERGY",
-                "2026",
-                "6",
-                "GO GAS EXTRA HOME",
-                "",
-                "",
-                "4.30",
-                "Ebill",
-                "0.05304",
-                "10% έκπτωση σε νέες συνδέσεις για ένα χρόνο ή με την ετήσια συντήρηση ή με πάγια εντολή.",
-                "24",
-                "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Εγγύηση 0€ με πάγια εντολή.",
-                "",
-                "21.80"
-            ]
-        },
-        {
             "name": "NRG",
             "program": "nrg adapt GAS",
             "type": "Live",
@@ -1541,6 +1541,33 @@
                 "Δώρο τα 3 πρώτα πάγια.",
                 "",
                 "22.26"
+            ]
+        },
+        {
+            "name": "EFA ENERGY",
+            "program": "GO GAS EXTRA HOME",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.05304,
+            "monthly_fee": 4.8,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EFA ENERGY",
+                "2026",
+                "6",
+                "GO GAS EXTRA HOME",
+                "",
+                "",
+                "4.80",
+                "",
+                "0.05304",
+                "10% έκπτωση σε νέες συνδέσεις για ένα χρόνο ή με την ετήσια συντήρηση ή με πάγια εντολή.",
+                "24",
+                "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Εγγύηση 0€ με πάγια εντολή.",
+                "",
+                "22.30"
             ]
         },
         {
@@ -1684,7 +1711,7 @@
             "type": "Live",
             "category": "Residential Gas",
             "price_kwh": 0.04704,
-            "monthly_fee": 7.83,
+            "monthly_fee": 8.33,
             "discount_percent": 0.0,
             "color": "#d35400",
             "raw_data": [
@@ -1695,14 +1722,14 @@
                 "MY GAS HOME",
                 "",
                 "",
-                "7.83",
-                "Ebill",
+                "8.33",
+                "",
                 "0.04704",
                 "",
                 "12",
                 "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Η πάγια χρέωση αφορά στο μηνιαίο επιμερισμό ετήσιας συνδρομής 100€.",
                 "",
-                "23.35"
+                "23.85"
             ]
         },
         {
@@ -1733,33 +1760,6 @@
             ]
         },
         {
-            "name": "EFA ENERGY",
-            "program": "PLUS GAS EXTRA HOME",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.06055,
-            "monthly_fee": 4.5,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EFA ENERGY",
-                "2026",
-                "6",
-                "PLUS GAS EXTRA HOME",
-                "",
-                "",
-                "4.50",
-                "Ebill",
-                "0.06055",
-                "40% έκπτωση συνέπειας",
-                "24",
-                "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Περιλαμβάνει αναπροσαρμογή TTF. Εγγύηση 0€ με πάγια εντολή.",
-                "",
-                "24.48"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "GasHome Bright Up",
             "type": "Live",
@@ -1784,6 +1784,33 @@
                 "",
                 "",
                 "24.72"
+            ]
+        },
+        {
+            "name": "EFA ENERGY",
+            "program": "PLUS GAS EXTRA HOME",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.06055,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EFA ENERGY",
+                "2026",
+                "6",
+                "PLUS GAS EXTRA HOME",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.06055",
+                "40% έκπτωση συνέπειας",
+                "24",
+                "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Περιλαμβάνει αναπροσαρμογή TTF. Εγγύηση 0€ με πάγια εντολή.",
+                "",
+                "24.98"
             ]
         },
         {
@@ -3082,6 +3109,33 @@
                 "",
                 "",
                 "128.80"
+            ]
+        },
+        {
+            "name": "EUNICE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.0,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "EUNICE",
+                "2026",
+                "6",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0",
+                "144.05",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "Η τιμή δεν είναι ακόμα γνωστή"
             ]
         }
     ],
