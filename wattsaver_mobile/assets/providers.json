@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12",
+    "last_updated": "2026-06-13",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -462,33 +462,6 @@
             ]
         },
         {
-            "name": "PROTERGIA",
-            "program": "Value Sure 18M 2.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.145,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "6",
-                "Value Sure 18M 2.0",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.145",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "18",
-                "",
-                "",
-                "59.75"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "Reward Stable Max 12M",
             "type": "Live",
@@ -567,33 +540,6 @@
                 "+5€ έκπτωση για πελάτες Dual Energy (Παράλληλη Σύνδεση Φυσικού Αερίου)",
                 "",
                 "60.44"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Value Sure 12M 2.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.154,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "6",
-                "Value Sure 12M 2.0",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.154",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "12",
-                "",
-                "",
-                "60.72"
             ]
         },
         {
@@ -1978,60 +1924,6 @@
             ]
         },
         {
-            "name": "PROTERGIA",
-            "program": "Value Simple Επαγγελματικό 1",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.147,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "6",
-                "Value Simple Επαγγελματικό 1",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.147",
-                "",
-                "12",
-                "",
-                "",
-                "53.51"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Value Simple Επαγγελματικό 3",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.147,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "6",
-                "Value Simple Επαγγελματικό 3",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.147",
-                "",
-                "12",
-                "",
-                "",
-                "53.51"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "Yellow One Business S 2",
             "type": "Live",
@@ -2785,33 +2677,6 @@
                 "Σταθερό 12μηνο πρόγραμμα για μη-οικιακούς πελάτης έως 25 kVA",
                 "",
                 "69.64"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Επαγγελματικό 1 Value Sure 12Μ 2.0",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1699,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "6",
-                "Επαγγελματικό 1 Value Sure 12Μ 2.0",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.1699",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια.",
-                "12",
-                "",
-                "",
-                "69.97"
             ]
         },
         {
