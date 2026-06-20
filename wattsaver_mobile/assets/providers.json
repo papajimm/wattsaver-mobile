@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19",
+    "last_updated": "2026-06-20",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -436,7 +436,7 @@
         },
         {
             "name": "NRG",
-            "program": "nrg fixed on time 1.0 18M",
+            "program": "nrg fixed on time 1.0 18M promo",
             "type": "Live",
             "category": "Residential Electricity",
             "price_kwh": 0.144,
@@ -448,7 +448,7 @@
                 "NRG",
                 "2026",
                 "6",
-                "nrg fixed on time 1.0 18M",
+                "nrg fixed on time 1.0 18M promo",
                 "",
                 "",
                 "11.90",
