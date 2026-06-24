@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-06-24",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -84,6 +84,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Value Bright",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.13767,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Value Bright",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.13767",
+                "Εμπρόθεσμη Πληρωμή.",
+                "12",
+                "Δυνατότητα επιπλέον έκπτωσης ύψους 0,01867 €/kWh υπό επιπλέον συμβατικές προϋποθέσεις.",
+                "",
+                "50.43"
+            ]
+        },
+        {
             "name": "ENERWAVE",
             "program": "Reward Saver",
             "type": "Live",
@@ -111,6 +138,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Value Sure 18M 3.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.119,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Value Sure 18M 3.0",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.119",
+                "Εμπρόθεσμη Πληρωμή.",
+                "18",
+                "Τιμή προ έκπτωσης : 0,233 €/kWh για τους 3 πρώτους μήνες σύμβασης - 0,259 €/kWh για τους υπόλοιπους μήνες σύμβασης. Τιμή μετά έκπτωσης : 0,119 €/kWh με συνέπεια για τους 3 πρώτους μήνες σύμβασης - 0,145 €/kWh με συνέπεια για τους υπόλοιπους μήνες σύμβασης. (Η έκπτωση αποδίδεται στους εκκαθαριστικούς του διαστήματος πρόσθετης έκπτωσης)",
+                "",
+                "51.17"
+            ]
+        },
+        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Ειδικό",
             "type": "Live",
@@ -135,6 +189,33 @@
                 "",
                 "",
                 "52.15"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Value Sure 12M 3.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.129,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Value Sure 12M 3.0",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.129",
+                "Εμπρόθεσμη Πληρωμή.",
+                "12",
+                "Τιμή προ έκπτωσης : 0,244 €/kWh για τους 3 πρώτους μήνες σύμβασης - 0,269 €/kWh για τους υπόλοιπους μήνες σύμβασης. Τιμή μετά έκπτωσης : 0,129 €/kWh με συνέπεια για τους 3 πρώτους μήνες σύμβασης - 0,154 €/kWh με συνέπεια για τους υπόλοιπους μήνες σύμβασης. (Η έκπτωση αποδίδεται στους εκκαθαριστικούς του διαστήματος πρόσθετης έκπτωσης)",
+                "",
+                "52.47"
             ]
         },
         {
@@ -192,6 +273,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Value Lite 2.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.16267,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Value Lite 2.0",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.16267",
+                "",
+                "12",
+                "",
+                "",
+                "53.68"
+            ]
+        },
+        {
             "name": "ΗΡΩΝ",
             "program": "BASIC HOME",
             "type": "Live",
@@ -243,6 +351,33 @@
                 "Για τους τρεις (3) πρώτους μήνες εκπροσώπησης, προσφέρονται δωρεάν πάγια. Ισχύει για νέους πελάτες.",
                 "",
                 "55.78"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time 1.0 18M promo",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.135,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "6",
+                "nrg fixed on time 1.0 18M promo",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.135",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "56.45"
             ]
         },
         {
@@ -378,33 +513,6 @@
                 "Το προϊόν είναι εμπορικά διαθέσιμο από τις 20/03/2026. Υφίσταται έκπτωση συνέπειας 0,111€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
                 "",
                 "59.07"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time 1.0 18M promo",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.144,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "6",
-                "nrg fixed on time 1.0 18M promo",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.144",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "18",
-                "",
-                "",
-                "59.42"
             ]
         },
         {
@@ -1897,6 +2005,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό 3 Value Simple 2.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.16267,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Επαγγελματικό 3 Value Simple 2.0",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.16267",
+                "",
+                "12",
+                "",
+                "",
+                "53.68"
+            ]
+        },
+        {
             "name": "ΗΡΩΝ",
             "program": "Yellow One Business S 2",
             "type": "Live",
@@ -1975,6 +2110,33 @@
                 "",
                 "",
                 "55.36"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό 1 Value Simple 2.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.15267,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Επαγγελματικό 1 Value Simple 2.0",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.15267",
+                "",
+                "12",
+                "",
+                "",
+                "55.38"
             ]
         },
         {
@@ -2272,6 +2434,33 @@
                 "",
                 "",
                 "62.90"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό 1 Value Sure 12Μ 3.0",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.1489,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "6",
+                "Επαγγελματικό 1 Value Sure 12Μ 3.0",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.1489",
+                "",
+                "12",
+                "Τιμή προ έκπτωσης : 0,248 €/kWh για τους 3 πρώτους μήνες σύμβασης - 0,269 €/kWh για τους υπόλοιπους μήνες σύμβασης. Τιμή μετά έκπτωσης : 0,1489 €/kWh με συνέπεια για τους 3 πρώτους μήνες σύμβασης - 0,1699 €/kWh με συνέπεια για τους υπόλοιπους μήνες σύμβασης. (Η έκπτωση αποδίδεται στους εκκαθαριστικούς του διαστήματος πρόσθετης έκπτωσης)",
+                "",
+                "63.04"
             ]
         },
         {
