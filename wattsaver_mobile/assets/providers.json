@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07",
+    "last_updated": "2026-07-08",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2137,6 +2137,33 @@
                 "",
                 "",
                 "58.45"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Business Direct Plus",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.148,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Power Business Direct Plus",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.148",
+                "",
+                "12",
+                "Έκπτωση Συνέπειας 44,78%",
+                "",
+                "58.74"
             ]
         },
         {
