@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15",
+    "last_updated": "2026-07-16",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -219,6 +219,33 @@
             ]
         },
         {
+            "name": "ENERWAVE",
+            "program": "Reward Stable Max 12M 2.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.119,
+            "monthly_fee": 15.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "7",
+                "Reward Stable Max 12M 2.0",
+                "",
+                "",
+                "15.90",
+                "",
+                "0.119",
+                "Έκπτωση συνέπειας 0.141 €/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/07/2026. Υφίσταται έκπτωση συνέπειας 0,141€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "55.17"
+            ]
+        },
+        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Ειδικό",
             "type": "Live",
@@ -297,6 +324,33 @@
                 "",
                 "",
                 "55.69"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Stable 12M 2.0",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.139,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "7",
+                "Reward Stable 12M 2.0",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.139",
+                "Έκπτωση συνέπειας 0.121€/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/07/2026. Υφίσταται έκπτωση συνέπειας 0,121€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "55.77"
             ]
         },
         {
@@ -2275,6 +2329,33 @@
             ]
         },
         {
+            "name": "ENERWAVE",
+            "program": "Reward Stable Zero for Business Γ21",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.189,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "7",
+                "Reward Stable Zero for Business Γ21",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.189",
+                "Έκπτωση συνέπειας 0.071€/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/07/2026. Υφίσταται έκπτωση συνέπειας 0,071€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "62.37"
+            ]
+        },
+        {
             "name": "VOLTON",
             "program": "Volton Blue Flat 18M Business 21 v2",
             "type": "Live",
@@ -2353,6 +2434,33 @@
                 "",
                 "",
                 "63.67"
+            ]
+        },
+        {
+            "name": "ENERWAVE",
+            "program": "Reward Stable 2.0 for Business Γ21",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.149,
+            "monthly_fee": 14.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ENERWAVE",
+                "2026",
+                "7",
+                "Reward Stable 2.0 for Business Γ21",
+                "",
+                "",
+                "14.90",
+                "",
+                "0.149",
+                "Έκπτωση συνέπειας 0.111€/kWh",
+                "12",
+                "Το προϊόν είναι εμπορικά διαθέσιμο από τις 03/07/2026. Υφίσταται έκπτωση συνέπειας 0,111€/kWh, η οποία εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
+                "",
+                "64.07"
             ]
         },
         {
