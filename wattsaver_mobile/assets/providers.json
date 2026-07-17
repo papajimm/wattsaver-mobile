@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-16",
+    "last_updated": "2026-07-17",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -216,6 +216,33 @@
                 "",
                 "",
                 "53.71"
+            ]
+        },
+        {
+            "name": "ΔΕΗ",
+            "program": "myHome Enter 06.26",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1421,
+            "monthly_fee": 7.35,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "7",
+                "myHome Enter 06.26",
+                "",
+                "",
+                "7.35",
+                "Πάγια εντολή πληρωμής",
+                "0.1421",
+                "Πάγια εντολή πληρωμής",
+                "12",
+                "Η υπηρεσία Green Pass Home ενεργοποιείται με την ενεργοποίηση του προϊόντος και μετά το πέρας των 2 πρώτων μηνών άρχεται η χρέωσή της.",
+                "",
+                "54.24"
             ]
         },
         {
@@ -1247,6 +1274,33 @@
             ]
         },
         {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Central Easy",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.05948,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Central Easy",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.05948",
+                "",
+                "24",
+                "",
+                "",
+                "19.63"
+            ]
+        },
+        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Gas On! Home Easy",
             "type": "Live",
@@ -1733,6 +1787,60 @@
             ]
         },
         {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Central Save",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.07106,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Central Save",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.07106",
+                "",
+                "12",
+                "",
+                "",
+                "23.45"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Home Now",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.05976,
+            "monthly_fee": 4.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Home Now",
+                "",
+                "",
+                "4.00",
+                "dual",
+                "0.05976",
+                "",
+                "12",
+                "",
+                "",
+                "23.72"
+            ]
+        },
+        {
             "name": "EFA ENERGY",
             "program": "PLUS GAS EXTRA HOME",
             "type": "Live",
@@ -1815,6 +1923,33 @@
         },
         {
             "name": "ΖΕΝΙΘ",
+            "program": "Gas Home Pulse",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.06441,
+            "monthly_fee": 4.5,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Home Pulse",
+                "",
+                "",
+                "4.50",
+                "",
+                "0.06441",
+                "",
+                "12",
+                "",
+                "",
+                "25.76"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
             "program": "Gas Home Pair",
             "type": "Live",
             "category": "Residential Gas",
@@ -1838,6 +1973,33 @@
                 "+ Δώρο 3 Πάγια (9,9 *3 = 29,7 σε ένα έτος)",
                 "",
                 "26.07"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Home Save",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.07106,
+            "monthly_fee": 4.5,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Home Save",
+                "",
+                "",
+                "4.50",
+                "",
+                "0.07106",
+                "",
+                "12",
+                "",
+                "",
+                "27.95"
             ]
         },
         {
@@ -3357,6 +3519,33 @@
             ]
         },
         {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Business Easy 2",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.05948,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Business Easy 2",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.05948",
+                "",
+                "24",
+                "",
+                "",
+                "19.63"
+            ]
+        },
+        {
             "name": "EFA ENERGY",
             "program": "PLUS GAS EXTRA BUSINESS",
             "type": "Live",
@@ -3516,6 +3705,60 @@
                 "",
                 "",
                 "23.33"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Business Save +",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.07106,
+            "monthly_fee": 0.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Business Save +",
+                "",
+                "",
+                "0.00",
+                "",
+                "0.07106",
+                "",
+                "12",
+                "",
+                "",
+                "23.45"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Gas Business Easy 1",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.05696,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "7",
+                "Gas Business Easy 1",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.05696",
+                "",
+                "24",
+                "",
+                "",
+                "23.80"
             ]
         }
     ]
