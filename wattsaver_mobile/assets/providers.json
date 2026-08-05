@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04",
+    "last_updated": "2026-08-05",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -348,6 +348,33 @@
                 "0.159",
                 "Έκπτωση Συνέπειας",
                 "12",
+                "",
+                "",
+                "57.47"
+            ]
+        },
+        {
+            "name": "OTE ESTATE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.159,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "OTE ESTATE",
+                "2026",
+                "8",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.159",
+                "",
+                "Αορίστου Διάρκειας",
                 "",
                 "",
                 "57.47"
@@ -2032,6 +2059,33 @@
             ]
         },
         {
+            "name": "OTE ESTATE",
+            "program": "Ειδικό",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.159,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "OTE ESTATE",
+                "2026",
+                "8",
+                "Ειδικό",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.159",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "57.47"
+            ]
+        },
+        {
             "name": "ΔΕΗ",
             "program": "MyBusiness4All+",
             "type": "Live",
@@ -3144,7 +3198,7 @@
             "type": "Live",
             "category": "Business Electricity",
             "price_kwh": 0.2483,
-            "monthly_fee": 0.0,
+            "monthly_fee": 1.0,
             "discount_percent": 0.0,
             "color": "#d35400",
             "raw_data": [
@@ -3155,14 +3209,14 @@
                 "Ειδικό",
                 "",
                 "",
-                "0.00",
+                "1.00",
                 "",
                 "0.2483",
                 "",
                 "12",
                 "",
                 "",
-                "81.94"
+                "82.94"
             ]
         },
         {
