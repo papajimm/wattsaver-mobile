@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2920,33 +2920,6 @@
                 "Συνέπεια",
                 "",
                 "87.13"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "Ειδικό Γ23",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.294,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "9",
-                "Ειδικό Γ23",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.294",
-                "",
-                "Αορίστου Διάρκειας",
-                "",
-                "",
-                "102.02"
             ]
         },
         {
