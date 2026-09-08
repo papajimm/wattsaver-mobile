@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07",
+    "last_updated": "2026-09-08",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -1005,33 +1005,6 @@
         },
         {
             "name": "ΗΡΩΝ",
-            "program": "GAS BLUE MAX HOME",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0398,
-            "monthly_fee": 7.4,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "9",
-                "GAS BLUE MAX HOME",
-                "",
-                "",
-                "7.40",
-                "",
-                "0.0398",
-                "",
-                "Αορίστου Διάρκειας",
-                "18ΜΗΝΗ ΙΣΧΥΣ ΣΥΜΒΑΣΗΣ",
-                "",
-                "20.53"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
             "program": "GAS PASS",
             "type": "Live",
             "category": "Residential Gas",
@@ -1139,33 +1112,6 @@
             ]
         },
         {
-            "name": "PROTERGIA",
-            "program": "Οικιακό Αυτόνομο Value Gas Sure",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0399,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "9",
-                "Οικιακό Αυτόνομο Value Gas Sure",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0399",
-                "Έκπτωση Power + Gas",
-                "12",
-                "Δωρεάν το πάγιο για τους μήνες Ιούνιο, Ιούλιο και Αύγουστο",
-                "",
-                "23.07"
-            ]
-        },
-        {
             "name": "ENERWAVE",
             "program": "GasBuilding Win | Κεντρικές Παροχές",
             "type": "Live",
@@ -1217,33 +1163,6 @@
                 "",
                 "",
                 "23.58"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Fixed 12M Αυτόνομη Θέρμανση Dual",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0589,
-            "monthly_fee": 4.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "9",
-                "Gas On! Fixed 12M Αυτόνομη Θέρμανση Dual",
-                "",
-                "",
-                "4.90",
-                "",
-                "0.0589",
-                "",
-                "12",
-                "Συνδυαστικό Πρόγραμμά",
-                "",
-                "24.34"
             ]
         },
         {
@@ -1703,33 +1622,6 @@
                 "Αφορά Οικιακές Αυτόνομες Συνδέσεις. Η πάγια χρέωση αφορά στο μηνιαίο επιμερισμό ετήσιας συνδρομής 100€.",
                 "",
                 "28.71"
-            ]
-        },
-        {
-            "name": "ΕΛΙΝΟΙΛ",
-            "program": "Gas On! Fixed 12M Αυτόνομη Θέρμανση",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.0589,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΕΛΙΝΟΙΛ",
-                "2026",
-                "9",
-                "Gas On! Fixed 12M Αυτόνομη Θέρμανση",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.0589",
-                "",
-                "12",
-                "",
-                "",
-                "29.34"
             ]
         },
         {
