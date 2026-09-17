@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-09-17",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -273,33 +273,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time 1.0 18M promo",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.135,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "9",
-                "nrg fixed on time 1.0 18M promo",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.135",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "18",
-                "",
-                "",
-                "56.45"
-            ]
-        },
-        {
             "name": "EUNICE",
             "program": "Home Secure",
             "type": "Live",
@@ -351,6 +324,33 @@
                 "Αφορά πελάτες που διατηρούν σε ισχύ σύμβαση ενεργειακού συμψηφισμού και σύμβαση προμήθειας & εγκατάστασης Φ/Β και μπαταρίας με την Protergia Έκπτωση: 100% έκπτωση στη χρέωση ενέργειας του ανταγωνιστικού σκέλους, για τις πρώτες 1.000kWh/έτος που τυχόν καταναλωθούν εκτός ενεργειακού συμψηφισμού. Μη εμπορικά διαθέσιμο.",
                 "",
                 "59.39"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time 1.0 18M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.144,
+            "monthly_fee": 11.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "9",
+                "nrg fixed on time 1.0 18M",
+                "",
+                "",
+                "11.90",
+                "",
+                "0.144",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "18",
+                "",
+                "",
+                "59.42"
             ]
         },
         {
@@ -2087,33 +2087,6 @@
         },
         {
             "name": "NRG",
-            "program": "nrg fixed on time advanced 3.0 BUSINESS",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.165,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "9",
-                "nrg fixed on time advanced 3.0 BUSINESS",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.165",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "68.35"
-            ]
-        },
-        {
-            "name": "NRG",
             "program": "nrg fixed on time 1.0 18M BUSINESS",
             "type": "Live",
             "category": "Business Electricity",
@@ -2218,6 +2191,33 @@
                 "Η Τελική Τιμή Προμήθειας περιλαμβάνει Έκπτωση χωρίς προϋποθέσεις για τις καταναλώσεις Σεπτεμβρίου 2026, ήτοι 0,04299€/kWh. Η έκπτωση συνέπειας εφαρμόζεται καθ’ όλη τη διάρκεια της σύμβασης και το πρώτο έτος της Διάρκειας Ανανέωσης.",
                 "",
                 "68.97"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed on time advanced 3.0 BUSINESS",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.168,
+            "monthly_fee": 13.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "9",
+                "nrg fixed on time advanced 3.0 BUSINESS",
+                "",
+                "",
+                "13.90",
+                "",
+                "0.168",
+                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
+                "12",
+                "",
+                "",
+                "69.34"
             ]
         },
         {
