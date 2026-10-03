@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -2326,6 +2326,33 @@
                 "",
                 "",
                 "85.47"
+            ]
+        },
+        {
+            "name": "ΔΕΗ",
+            "program": "Ειδικό - Γ21",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.25437,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "10",
+                "Ειδικό - Γ21",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.25437",
+                "",
+                "Αορίστου Διάρκειας",
+                "",
+                "",
+                "88.94"
             ]
         },
         {
