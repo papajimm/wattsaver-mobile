@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-04",
+    "last_updated": "2026-10-05",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -923,33 +923,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Gas Home Pair",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.049,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "10",
-                "Gas Home Pair",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.049",
-                "Έκπτωση Dual Energy (Παράλληλη σύνδεση Ηλεκτρικής Ενέργειας)",
-                "12",
-                "+ Δώρο 3 Πάγια (9,9 *3 = 29,7 σε ένα έτος)",
-                "",
-                "26.07"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "GAS MAX SHARE",
             "type": "Live",
@@ -1298,6 +1271,60 @@
                 "",
                 "",
                 "32.78"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Οικιακό Αυτόνομο/Κοινόχρηστο Value Gas Flex",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.08025,
+            "monthly_fee": 7.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "10",
+                "Οικιακό Αυτόνομο/Κοινόχρηστο Value Gas Flex",
+                "",
+                "",
+                "7.00",
+                "",
+                "0.08025",
+                "Έκπτωση Power and Gas",
+                "12",
+                "",
+                "",
+                "33.48"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Οικιακό Αυτόνομο/Κοινόχρηστο Value Gas Standard",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.09025,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "10",
+                "Οικιακό Αυτόνομο/Κοινόχρηστο Value Gas Standard",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.09025",
+                "",
+                "12",
+                "",
+                "",
+                "34.78"
             ]
         },
         {
@@ -2437,6 +2464,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow One Business S 2",
+            "type": "Live",
+            "category": "Business Electricity",
+            "price_kwh": 0.26142,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "10",
+                "Yellow One Business S 2",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.26142",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "91.27"
+            ]
+        },
+        {
             "name": "NRG",
             "program": "nrg simple 1.0 BUSINESS1",
             "type": "Live",
@@ -2817,6 +2871,33 @@
             ]
         },
         {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό Value Gas Flex",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.08125,
+            "monthly_fee": 7.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "10",
+                "Επαγγελματικό Value Gas Flex",
+                "",
+                "",
+                "7.00",
+                "",
+                "0.08125",
+                "",
+                "12",
+                "",
+                "",
+                "33.81"
+            ]
+        },
+        {
             "name": "NRG",
             "program": "nrg prime GAS 4BUSINESS",
             "type": "Live",
@@ -2841,6 +2922,33 @@
                 "",
                 "",
                 "34.28"
+            ]
+        },
+        {
+            "name": "PROTERGIA",
+            "program": "Επαγγελματικό Value Gas Standard",
+            "type": "Live",
+            "category": "Business Gas",
+            "price_kwh": 0.09025,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "PROTERGIA",
+                "2026",
+                "10",
+                "Επαγγελματικό Value Gas Standard",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.09025",
+                "",
+                "12",
+                "",
+                "",
+                "34.78"
             ]
         },
         {
