@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -246,33 +246,6 @@
             ]
         },
         {
-            "name": "PROTERGIA",
-            "program": "Value Sure 18M 3.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.145,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "10",
-                "Value Sure 18M 3.0",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.145",
-                "Εμπρόθεσμη Πληρωμή.",
-                "18",
-                "",
-                "",
-                "59.75"
-            ]
-        },
-        {
             "name": "VOLTON",
             "program": "Volton Blue Flat v3",
             "type": "Live",
@@ -324,33 +297,6 @@
                 "+5€ έκπτωση για πελάτες Dual Energy (Παράλληλη Σύνδεση Φυσικού Αερίου)",
                 "",
                 "60.44"
-            ]
-        },
-        {
-            "name": "PROTERGIA",
-            "program": "Value Sure 12M 3.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.154,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "10",
-                "Value Sure 12M 3.0",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.154",
-                "Εμπρόθεσμη Πληρωμή.",
-                "12",
-                "",
-                "",
-                "60.72"
             ]
         },
         {
@@ -570,33 +516,6 @@
             ]
         },
         {
-            "name": "PROTERGIA",
-            "program": "Value Standard",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1985,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "PROTERGIA",
-                "2026",
-                "10",
-                "Value Standard",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.1985",
-                "Συνέπεια",
-                "12",
-                "",
-                "",
-                "70.51"
-            ]
-        },
-        {
             "name": "OTE ESTATE",
             "program": "Ειδικό",
             "type": "Live",
@@ -729,6 +648,33 @@
                 "",
                 "",
                 "83.87"
+            ]
+        },
+        {
+            "name": "ΗΡΩΝ",
+            "program": "Yellow One Home 2",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.24382,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "10",
+                "Yellow One Home 2",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.24382",
+                "Συνέπεια",
+                "12",
+                "",
+                "",
+                "85.46"
             ]
         },
         {
@@ -1163,33 +1109,6 @@
                 "Μηδενική εγγύηση για νέους πελάτες έως 30.11.2026",
                 "",
                 "31.90"
-            ]
-        },
-        {
-            "name": "ΔΕΗ",
-            "program": "ΔΕΗ myHomeGasControl",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.052,
-            "monthly_fee": 14.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΔΕΗ",
-                "2026",
-                "10",
-                "ΔΕΗ myHomeGasControl",
-                "",
-                "",
-                "14.90",
-                "",
-                "0.052",
-                "",
-                "18",
-                "Μηδενική εγγύηση για νέους πελάτες έως 30.11.2026",
-                "",
-                "32.06"
             ]
         },
         {
