@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-18",
+    "last_updated": "2026-10-19",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -815,33 +815,6 @@
     ],
     "gas_providers": [
         {
-            "name": "ΔΕΗ",
-            "program": "ΔΕΗ myΒuildingGasControl",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.049,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΔΕΗ",
-                "2026",
-                "10",
-                "ΔΕΗ myΒuildingGasControl",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.049",
-                "",
-                "12",
-                "Τιμολόγιο Κοινοχρήστων. 60€ έκπτωση στον λογαριασμό για αιτήσεις έως 11.10.2026",
-                "",
-                "21.17"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "GAS MAX SHARE",
             "type": "Live",
@@ -1462,33 +1435,6 @@
                 "",
                 "",
                 "59.72"
-            ]
-        },
-        {
-            "name": "ΔΕΗ",
-            "program": "myBusinessEnter 06.26",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.1617,
-            "monthly_fee": 8.82,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΔΕΗ",
-                "2026",
-                "10",
-                "myBusinessEnter 06.26",
-                "",
-                "",
-                "8.82",
-                "Πάγια Εντολή",
-                "0.1617",
-                "Πάγια Εντολή",
-                "12",
-                "",
-                "",
-                "62.18"
             ]
         },
         {
