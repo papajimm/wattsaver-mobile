@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -165,33 +165,6 @@
             ]
         },
         {
-            "name": "EUNICE",
-            "program": "Home Secure",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.159,
-            "monthly_fee": 5.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "10",
-                "Home Secure",
-                "",
-                "",
-                "5.00",
-                "",
-                "0.159",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "57.47"
-            ]
-        },
-        {
             "name": "NRG",
             "program": "nrg fixed on time 1.0 18M",
             "type": "Live",
@@ -212,33 +185,6 @@
                 "",
                 "0.144",
                 "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "18",
-                "",
-                "",
-                "59.42"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "Blue Generous Max HOME 4",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.144,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "10",
-                "Blue Generous Max HOME 4",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.144",
-                "Συνέπεια",
                 "18",
                 "",
                 "",
@@ -422,33 +368,6 @@
                 "2026",
                 "10",
                 "nrg fixed 12M",
-                "",
-                "",
-                "15.90",
-                "",
-                "0.158",
-                "",
-                "12",
-                "",
-                "",
-                "68.04"
-            ]
-        },
-        {
-            "name": "ΗΡΩΝ",
-            "program": "Blue Simple HOME",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.158,
-            "monthly_fee": 15.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΗΡΩΝ",
-                "2026",
-                "10",
-                "Blue Simple HOME",
                 "",
                 "",
                 "15.90",
@@ -1058,6 +977,33 @@
             ]
         },
         {
+            "name": "ΗΡΩΝ",
+            "program": "GAS BLUE PLUS HOME",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.0499,
+            "monthly_fee": 14.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΗΡΩΝ",
+                "2026",
+                "10",
+                "GAS BLUE PLUS HOME",
+                "",
+                "",
+                "14.90",
+                "",
+                "0.0499",
+                "",
+                "18",
+                "",
+                "",
+                "31.37"
+            ]
+        },
+        {
             "name": "ENERWAVE",
             "program": "GasHome Win",
             "type": "Live",
@@ -1383,33 +1329,6 @@
         }
     ],
     "providers_business": [
-        {
-            "name": "EUNICE",
-            "program": "Small Business Secure",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.165,
-            "monthly_fee": 4.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "EUNICE",
-                "2026",
-                "10",
-                "Small Business Secure",
-                "",
-                "",
-                "4.00",
-                "",
-                "0.165",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "",
-                "",
-                "58.45"
-            ]
-        },
         {
             "name": "PROTERGIA",
             "program": "Value Seasonal Επαγγελματικό 1 (2026)",
