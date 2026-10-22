@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-22",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -85,33 +85,6 @@
         },
         {
             "name": "ΔΕΗ",
-            "program": "myHome Plan 06.26",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.1421,
-            "monthly_fee": 7.35,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΔΕΗ",
-                "2026",
-                "10",
-                "myHome Plan 06.26",
-                "",
-                "",
-                "7.35",
-                "Πάγια Εντολή",
-                "0.1421",
-                "Πάγια Εντολή",
-                "12",
-                "Υπολογισμός της έκπτωσης επί των Χρεώσεων Προμήθειας στους εκκαθαριστικούς λογαριασμούς. Δεν προσφέρεται σε πελάτες με ενεργό ενεργειακό συμψηφισμό ή τηλεμετρούμενο μετρητή· σύναψη τέτοιας σύμβασης, εγκατάσταση τηλεμετρούμενου ή επαύξηση ισχύος, συνεπάγεται μετάπτωση στο Βασικό Οικιακό Προϊόν (κυμαινόμενο).",
-                "",
-                "54.24"
-            ]
-        },
-        {
-            "name": "ΔΕΗ",
             "program": "myHome Enter 07.26",
             "type": "Live",
             "category": "Residential Electricity",
@@ -133,6 +106,33 @@
                 "Πάγια Εντολή",
                 "12",
                 "Δωρεάν η υπηρεσία Green Pass Home για τους 2 πρώτους μήνες μετά το πέρας των οποίων άρχεται η χρέωσή της. Η υπηρεσία ενεργοποιείται με την ενεργοποίηση του προϊόντος.",
+                "",
+                "54.24"
+            ]
+        },
+        {
+            "name": "ΔΕΗ",
+            "program": "myHome Plan 06.26",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.1421,
+            "monthly_fee": 7.35,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "10",
+                "myHome Plan 06.26",
+                "",
+                "",
+                "7.35",
+                "Πάγια Εντολή",
+                "0.1421",
+                "Πάγια Εντολή",
+                "12",
+                "Υπολογισμός της έκπτωσης επί των Χρεώσεων Προμήθειας στους εκκαθαριστικούς λογαριασμούς. Δεν προσφέρεται σε πελάτες με ενεργό ενεργειακό συμψηφισμό ή τηλεμετρούμενο μετρητή· σύναψη τέτοιας σύμβασης, εγκατάσταση τηλεμετρούμενου ή επαύξηση ισχύος, συνεπάγεται μετάπτωση στο Βασικό Οικιακό Προϊόν (κυμαινόμενο).",
                 "",
                 "54.24"
             ]
@@ -162,33 +162,6 @@
                 "Για τους τρεις (3) πρώτους μήνες εκπροσώπησης, προσφέρονται δωρεάν πάγια. Ισχύει για νέους πελάτες.",
                 "",
                 "55.78"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time 1.0 18M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.144,
-            "monthly_fee": 11.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 1.0 18M",
-                "",
-                "",
-                "11.90",
-                "",
-                "0.144",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "18",
-                "",
-                "",
-                "59.42"
             ]
         },
         {
@@ -273,33 +246,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time advanced 3.0",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.153,
-            "monthly_fee": 10.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time advanced 3.0",
-                "",
-                "",
-                "10.90",
-                "",
-                "0.153",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "61.39"
-            ]
-        },
-        {
             "name": "ΕΛΙΝΟΙΛ",
             "program": "Power On! Blue Home 12M",
             "type": "Live",
@@ -324,33 +270,6 @@
                 "",
                 "",
                 "61.67"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time 2.0 18M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.166,
-            "monthly_fee": 9.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 2.0 18M",
-                "",
-                "",
-                "9.90",
-                "",
-                "0.166",
-                "Εμπρόθεσμη Πληρωμή",
-                "18",
-                "Επιπλέον έκπτωση συνέπειας 0,037 €/kWh για τις πρώτες 90 ημέρες σύμβασης από την ημέρα εκπροσώπησης. Η τελική τιμή χρέωσης με έκπτωση συνέπειας για τους πρώτους 3 μήνες σύμβασης διαμορφώνεται στα 0,129 €/kWh.",
-                "",
-                "64.68"
             ]
         },
         {
@@ -435,33 +354,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time 2.0 12M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.169,
-            "monthly_fee": 10.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 2.0 12M",
-                "",
-                "",
-                "10.90",
-                "",
-                "0.169",
-                "Εμπρόθεσμη Πληρωμή",
-                "12",
-                "Επιπλέον έκπτωση συνέπειας 0,040 €/kWh για τις πρώτες 90 ημέρες σύμβασης από την ημέρα εκπροσώπησης. Η τελική τιμή χρέωσης με έκπτωση συνέπειας για τους πρώτους 3 μήνες σύμβασης διαμορφώνεται στα 0,129 €/kWh.",
-                "",
-                "66.67"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "Blue Generous Max HOME 5",
             "type": "Live",
@@ -486,33 +378,6 @@
                 "",
                 "",
                 "67.34"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed 12M",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.158,
-            "monthly_fee": 15.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed 12M",
-                "",
-                "",
-                "15.90",
-                "",
-                "0.158",
-                "",
-                "12",
-                "",
-                "",
-                "68.04"
             ]
         },
         {
@@ -1004,33 +869,6 @@
             ]
         },
         {
-            "name": "ENERWAVE",
-            "program": "GasBuilding Win | Κεντρικές Παροχές",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.08487,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "10",
-                "GasBuilding Win | Κεντρικές Παροχές",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.08487",
-                "Έκπτωση Double Energy 10%",
-                "24",
-                "",
-                "",
-                "28.01"
-            ]
-        },
-        {
             "name": "ΔΕΗ",
             "program": "ΔΕΗ myBuildingGasBenefit",
             "type": "Live",
@@ -1217,33 +1055,6 @@
                 "",
                 "",
                 "31.37"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "GasHome Win",
-            "type": "Live",
-            "category": "Residential Gas",
-            "price_kwh": 0.08127,
-            "monthly_fee": 4.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "10",
-                "GasHome Win",
-                "",
-                "",
-                "4.90",
-                "",
-                "0.08127",
-                "Έκπτωση Double Energy 10%",
-                "24",
-                "",
-                "",
-                "31.72"
             ]
         },
         {
@@ -1762,33 +1573,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time 1.0 18M BUSINESS",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.165,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 1.0 18M BUSINESS",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.165",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "18",
-                "",
-                "",
-                "68.35"
-            ]
-        },
-        {
             "name": "PROTERGIA",
             "program": "Επαγγελματικό 1 Value Standard 2.0",
             "type": "Live",
@@ -1813,33 +1597,6 @@
                 "",
                 "",
                 "69.02"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time advanced 3.0 BUSINESS",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.168,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time advanced 3.0 BUSINESS",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.168",
-                "Εμπρόθεσμη Πληρωμή με Συνέπεια",
-                "12",
-                "",
-                "",
-                "69.34"
             ]
         },
         {
@@ -1897,33 +1654,6 @@
             ]
         },
         {
-            "name": "NRG",
-            "program": "nrg fixed on time 2.0 BUSINESS 18M",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.176,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 2.0 BUSINESS 18M",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.176",
-                "Εμπρόθεσμη Πληρωμή",
-                "18",
-                "Επιπλέον έκπτωση συνέπειας 0,040 €/kWh για τις πρώτες 90 ημέρες σύμβασης από την ημέρα εκπροσώπησης. Η τελική τιμή χρέωσης με έκπτωση συνέπειας για τους πρώτους 3 μήνες σύμβασης διαμορφώνεται στα 0,136 €/kWh.",
-                "",
-                "71.98"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "Blue Generous Max BUSINESS 5",
             "type": "Live",
@@ -1948,33 +1678,6 @@
                 "",
                 "",
                 "72.97"
-            ]
-        },
-        {
-            "name": "NRG",
-            "program": "nrg fixed on time 2.0 BUSINESS 12M",
-            "type": "Live",
-            "category": "Business Electricity",
-            "price_kwh": 0.185,
-            "monthly_fee": 13.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "NRG",
-                "2026",
-                "10",
-                "nrg fixed on time 2.0 BUSINESS 12M",
-                "",
-                "",
-                "13.90",
-                "",
-                "0.185",
-                "Εμπρόθεσμη Πληρωμή",
-                "12",
-                "Επιπλέον έκπτωση συνέπειας 0,049 €/kWh για τις πρώτες 90 ημέρες σύμβασης από την ημέρα εκπροσώπησης. Η τελική τιμή χρέωσης με έκπτωση συνέπειας για τους πρώτους 3 μήνες σύμβασης διαμορφώνεται στα 0,136 €/kWh.",
-                "",
-                "74.95"
             ]
         },
         {
@@ -2787,33 +2490,6 @@
                 "",
                 "",
                 "27.48"
-            ]
-        },
-        {
-            "name": "ENERWAVE",
-            "program": "GasBusiness Win",
-            "type": "Live",
-            "category": "Business Gas",
-            "price_kwh": 0.08487,
-            "monthly_fee": 0.0,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ENERWAVE",
-                "2026",
-                "10",
-                "GasBusiness Win",
-                "",
-                "",
-                "0.00",
-                "",
-                "0.08487",
-                "Έκπτωση Double Energy 10%",
-                "24",
-                "",
-                "",
-                "28.01"
             ]
         },
         {
