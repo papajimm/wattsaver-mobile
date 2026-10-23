@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-23",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -192,33 +192,6 @@
             ]
         },
         {
-            "name": "ΖΕΝΙΘ",
-            "program": "Power Home Pair",
-            "type": "Live",
-            "category": "Residential Electricity",
-            "price_kwh": 0.138,
-            "monthly_fee": 14.9,
-            "discount_percent": 0.0,
-            "color": "#d35400",
-            "raw_data": [
-                "",
-                "ΖΕΝΙΘ",
-                "2026",
-                "10",
-                "Power Home Pair",
-                "",
-                "",
-                "14.90",
-                "",
-                "0.138",
-                "Έκπτωση Συνέπειας",
-                "12",
-                "+5€ έκπτωση για πελάτες Dual Energy (Παράλληλη Σύνδεση Φυσικού Αερίου)",
-                "",
-                "60.44"
-            ]
-        },
-        {
             "name": "ΗΡΩΝ",
             "program": "Blue More HOME",
             "type": "Live",
@@ -270,6 +243,33 @@
                 "",
                 "",
                 "61.67"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Prime 2Y",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.139,
+            "monthly_fee": 15.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "10",
+                "Power Home Prime 2Y",
+                "",
+                "",
+                "15.90",
+                "",
+                "0.139",
+                "Έκπτωση Συνέπειας",
+                "24",
+                "",
+                "",
+                "61.77"
             ]
         },
         {
@@ -378,6 +378,33 @@
                 "",
                 "",
                 "67.34"
+            ]
+        },
+        {
+            "name": "ΖΕΝΙΘ",
+            "program": "Power Home Fixed Safe 12M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.159,
+            "monthly_fee": 15.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΖΕΝΙΘ",
+                "2026",
+                "10",
+                "Power Home Fixed Safe 12M",
+                "",
+                "",
+                "15.90",
+                "",
+                "0.159",
+                "Έκπτωση Συνέπειας",
+                "12",
+                "Χωρίς Τέλος Πρόωρης Λύσης της Σύμβασης",
+                "",
+                "68.37"
             ]
         },
         {
