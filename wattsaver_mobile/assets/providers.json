@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -841,6 +841,60 @@
         }
     ],
     "gas_providers": [
+        {
+            "name": "ΔΕΗ",
+            "program": "ΔΕΗ myHomeGasControl",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.042,
+            "monthly_fee": 7.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "10",
+                "ΔΕΗ myHomeGasControl",
+                "",
+                "",
+                "7.00",
+                "",
+                "0.042",
+                "",
+                "12",
+                "Εμπορικά διαθέσιμο έως και 21.09.2026. Μηδενική εγγύηση για νέους πελάτες έως 30.06.2026",
+                "",
+                "20.86"
+            ]
+        },
+        {
+            "name": "ΔΕΗ",
+            "program": "ΔΕΗ myΒuildingGasControl",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.049,
+            "monthly_fee": 5.0,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "ΔΕΗ",
+                "2026",
+                "10",
+                "ΔΕΗ myΒuildingGasControl",
+                "",
+                "",
+                "5.00",
+                "",
+                "0.049",
+                "",
+                "12",
+                "60€ έκπτωση στον λογαριασμό για νέους πελάτες έως 30.6.2026",
+                "",
+                "21.17"
+            ]
+        },
         {
             "name": "ΗΡΩΝ",
             "program": "GAS MAX SHARE",
