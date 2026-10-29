@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-10-29",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -1244,6 +1244,33 @@
                 "Πολιτική Ορθής Χρήσης: έως 13 MWh ανά 12μηνο",
                 "",
                 "31.32"
+            ]
+        },
+        {
+            "name": "NRG",
+            "program": "nrg fixed GAS 1.0 18M",
+            "type": "Live",
+            "category": "Residential Gas",
+            "price_kwh": 0.0499,
+            "monthly_fee": 14.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "NRG",
+                "2026",
+                "10",
+                "nrg fixed GAS 1.0 18M",
+                "",
+                "",
+                "14.90",
+                "",
+                "0.0499",
+                "",
+                "18",
+                "Η εφαρμογή της Ρήτρας Πρόωρης Αποχώρησης αναστέλλεται έως την ενσωμάτωση της Οδηγίας (ΕΕ) 2024/1788 στην ελληνική έννομη τάξη.",
+                "",
+                "31.37"
             ]
         },
         {
