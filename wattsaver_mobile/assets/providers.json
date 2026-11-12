@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11",
+    "last_updated": "2026-11-12",
     "regulated_charges": {
         "admie_monopasiko": 0.00999,
         "deddie_monopasiko_power": 6.21,
@@ -78,9 +78,36 @@
                 "0.1421",
                 "Πάγια Εντολή",
                 "12",
-                "Υπολογισμός της έκπτωσης επί των Χρεώσεων Προμήθειας στους εκκαθαριστικούς λογαριασμούς. Δεν προσφέρεται σε πελάτες με ενεργό ενεργειακό συμψηφισμό ή τηλεμετρούμενο μετρητή· σύναψη τέτοιας σύμβασης, εγκατάσταση τηλεμετρούμενου ή επαύξηση ισχύος, συνεπάγεται μετάπτωση στο Βασικό Οικιακό Προϊόν (κυμαινόμενο).",
+                "Υπολογισμός της έκπτωσης επί των Χρεώσεων Προμήθειας στους εκκαθαριστικούς λογαριασμούς. Δεν προσφέρεται σε πελάτες με ενεργό ενεργειακό συμψηφισμό ή τηλεμετρούμενο μετρητή.",
                 "",
                 "54.24"
+            ]
+        },
+        {
+            "name": "VOLTON",
+            "program": "Volton Blue Flat 24M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.14,
+            "monthly_fee": 9.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "VOLTON",
+                "2026",
+                "11",
+                "Volton Blue Flat 24M",
+                "",
+                "",
+                "9.90",
+                "",
+                "0.14",
+                "Συνέπεια 50%",
+                "24",
+                "",
+                "",
+                "56.10"
             ]
         },
         {
@@ -354,6 +381,33 @@
             ]
         },
         {
+            "name": "VOLTON",
+            "program": "Volton Blue Fixed Plus 18M v2",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 12.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "VOLTON",
+                "2026",
+                "11",
+                "Volton Blue Fixed Plus 18M v2",
+                "",
+                "",
+                "12.90",
+                "",
+                "0.165",
+                "Συνέπεια 41.07%",
+                "18",
+                "Για τους τρεις (3) πρώτους μήνες εκπροσώπησης, προσφέρεται επιπλέον έκπτωση στη βασική τιμή προμήθειας, με την τελική τιμή να είναι ίση με 0,130€/kWh. Ισχύει για νέους πελάτες.",
+                "",
+                "67.35"
+            ]
+        },
+        {
             "name": "ΖΕΝΙΘ",
             "program": "Power Home Fixed Safe 12M",
             "type": "Live",
@@ -405,6 +459,33 @@
                 "",
                 "",
                 "68.70"
+            ]
+        },
+        {
+            "name": "VOLTON",
+            "program": "Volton Blue Flat 12M",
+            "type": "Live",
+            "category": "Residential Electricity",
+            "price_kwh": 0.165,
+            "monthly_fee": 14.9,
+            "discount_percent": 0.0,
+            "color": "#d35400",
+            "raw_data": [
+                "",
+                "VOLTON",
+                "2026",
+                "11",
+                "Volton Blue Flat 12M",
+                "",
+                "",
+                "14.90",
+                "",
+                "0.165",
+                "Συνέπεια 41.07%",
+                "12",
+                "",
+                "",
+                "69.35"
             ]
         },
         {
@@ -705,7 +786,7 @@
             ]
         },
         {
-            "name": "OTE ESTATE",
+            "name": "TELEKOM ESTATE",
             "program": "Ειδικό",
             "type": "Live",
             "category": "Residential Electricity",
@@ -715,7 +796,7 @@
             "color": "#d35400",
             "raw_data": [
                 "",
-                "OTE ESTATE",
+                "TELEKOM ESTATE",
                 "2026",
                 "11",
                 "Ειδικό",
